@@ -1,0 +1,297 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 255
+Number of records retrieved in searches: 1622
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 10
+	Country: Chile ; Times: 11
+	Country: Costa Rica ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Honduras ; Times: 5
+	Country: Hong Kong ; Times: 4
+	Country: India ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 191
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 38
+	Date: 2015-01-05 ; Times: 2
+	Date: 2015-01-06 ; Times: 10
+	Date: 2015-01-07 ; Times: 5
+	Date: 2015-01-08 ; Times: 9
+	Date: 2015-01-09 ; Times: 14
+	Date: 2015-01-11 ; Times: 2
+	Date: 2015-01-12 ; Times: 11
+	Date: 2015-01-13 ; Times: 9
+	Date: 2015-01-14 ; Times: 2
+	Date: 2015-01-15 ; Times: 13
+	Date: 2015-01-16 ; Times: 20
+	Date: 2015-01-17 ; Times: 5
+	Date: 2015-01-18 ; Times: 5
+	Date: 2015-01-19 ; Times: 11
+	Date: 2015-01-20 ; Times: 14
+	Date: 2015-01-21 ; Times: 15
+	Date: 2015-01-22 ; Times: 14
+	Date: 2015-01-23 ; Times: 9
+	Date: 2015-01-24 ; Times: 4
+	Date: 2015-01-25 ; Times: 9
+	Date: 2015-01-26 ; Times: 5
+	Date: 2015-01-27 ; Times: 2
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-29 ; Times: 10
+	Date: 2015-01-30 ; Times: 7
+	Date: 2015-01-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "genus:lanthanotus (skeleton)" ; Times: 2
+	Query: "anadia" ; Times: 2
+	Query: "ameerega parvula" ; Times: 1
+	Query: "institutioncode:ypm Chrysemys" ; Times: 1
+	Query: "Insuetophrynus acarpicus" ; Times: 3
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Amphibia year >= 1750 year <= 2015" ; Times: 2
+	Query: "Rhinoderma darwinii" ; Times: 3
+	Query: "Candoia bibroni" ; Times: 2
+	Query: "bogertophis subocularis" ; Times: 2
+	Query: "sphaerodactylus macrolepis" ; Times: 6
+	Query: "stateprovince:"kentucky" class:reptilia" ; Times: 4
+	Query: "Glyptemys muhlenbergii" ; Times: 3
+	Query: "alligator mississippiensis georgia" ; Times: 1
+	Query: "ranoides" ; Times: 1
+	Query: "institutioncode:ypm Emydoidea" ; Times: 2
+	Query: "avis" ; Times: 1
+	Query: "corytophanes percarinatus" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:amphibia year >= 1750 year <= 2015" ; Times: 3
+	Query: "Batrachyla leptopus" ; Times: 1
+	Query: "Basiliscus tissue:1" ; Times: 1
+	Query: "22-Nov-1963" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 31
+	Query: "miotympanum (hylidae) AND (NOT KU NOT UTA)" ; Times: 1
+	Query: "Oxybelis Arizona santa cruz class:reptilia" ; Times: 1
+	Query: "anolis equestris" ; Times: 2
+	Query: "stateprovince:"Connecticut" specificepithet:catesbeiana genus:Rana class:Amphibia year >= 1900 year <= 1970" ; Times: 1
+	Query: "phyllobates vittatus" ; Times: 2
+	Query: "country:"Philippines" specificepithet:auriculata genus:Rhabdophis" ; Times: 1
+	Query: "Polychrus tissue:1" ; Times: 1
+	Query: "Cyclura tissue:1" ; Times: 1
+	Query: "Corytophanes tissue:1" ; Times: 1
+	Query: "phrynobatrachus natalensis" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:miliarius genus:sistrurus" ; Times: 1
+	Query: "ameerega hahneli" ; Times: 1
+	Query: "Typhlonectidae tissue:1" ; Times: 1
+	Query: "country:"USA" genus:Osteopilus" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "xenopus laevis tissue:1" ; Times: 1
+	Query: "abronia" ; Times: 2
+	Query: "county:"New Haven" stateprovince:"Connecticut" genus:Ambystoma year >= 1900 year <= 2014" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "bothrops alternatus" ; Times: 1
+	Query: "geoemyda spengleri AND (NOT japonica)" ; Times: 1
+	Query: "stateprovince:"Illinois" class:amphibia institutioncode:YPM" ; Times: 1
+	Query: "Acanthocercus tissue:1" ; Times: 3
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "Vipera l" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 2
+	Query: "Leiocephalus tissue:1" ; Times: 2
+	Query: ""lampropeltis triangulum" tissue:1" ; Times: 1
+	Query: "Thamnophis radix Nebraska type:specimen" ; Times: 1
+	Query: "Callisaurus tissue:1" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 3
+	Query: "oxybelis aeneus type:specimen AND (Arizona)" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "teratoscincus microlepis" ; Times: 3
+	Query: "goniurosaurus" ; Times: 1
+	Query: "Podarcis muralis stateprovince:"Ohio"" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "Gambelia tissue:1" ; Times: 1
+	Query: "Silverstoneia" ; Times: 1
+	Query: "cylindrophis" ; Times: 1
+	Query: "Crotalus Adamanteus (Florida)" ; Times: 1
+	Query: "Batrachyla taeniata" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 4
+	Query: "iguana tissue:1" ; Times: 3
+	Query: "crocodylus acutus" ; Times: 5
+	Query: "Crocodylus siamensis" ; Times: 2
+	Query: "stateprovince:"new mexico" specificepithet:scutulatus genus:Crotalus" ; Times: 3
+	Query: "cyrtodactylus sermowaiensis" ; Times: 1
+	Query: "genus:plestiodon (skeleton)" ; Times: 1
+	Query: "Echis coloratus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 3
+	Query: "geoemyda spengleri" ; Times: 1
+	Query: "Gonocephalus tissue:1" ; Times: 2
+	Query: "chelonia mydas agassizi" ; Times: 1
+	Query: "institutioncode:ypm Chrysemys picta" ; Times: 1
+	Query: "salamandra country:"germany"" ; Times: 1
+	Query: "tropidodipsas fischeri" ; Times: 2
+	Query: "xantusia gracilis" ; Times: 1
+	Query: "Brookesia perarmata" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 2
+	Query: "Cerrophidion tissue:1" ; Times: 1
+	Query: "specificepithet:cerberus genus:crotalus" ; Times: 1
+	Query: "Ophisaurus harti" ; Times: 1
+	Query: "galapagos tortoise" ; Times: 1
+	Query: "Rhampholeon tissue:1" ; Times: 1
+	Query: "Brookesia minima" ; Times: 2
+	Query: "country:"usa" class:Amphibia (planirostris)" ; Times: 2
+	Query: "phrynosoma cornutum AND (NOT Texas NOT Mexico)" ; Times: 3
+	Query: "Crotalus Adamanteus stateprovince:"Georgia"" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Calumma boettgeri" ; Times: 1
+	Query: "geoemyda spengleri AND (NOT japonica NOT Japan)" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "Sistrurus Arizona" ; Times: 9
+	Query: "class:amphibia stateprovince:Georgia county:Fulton" ; Times: 1
+	Query: "Cophosaurus tissue:1" ; Times: 1
+	Query: "dibamus" ; Times: 1
+	Query: "opisthotropis" ; Times: 3
+	Query: "trachyboa" ; Times: 1
+	Query: "Physignathus lesueurii tissue:1" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+	Query: "rhabdophis subminiatus" ; Times: 1
+	Query: "Laemanctus tissue:1" ; Times: 1
+	Query: "pantherophis bairdi" ; Times: 1
+	Query: "county:"Pima" stateprovince:"Arizona" specificepithet:tigris genus:Crotalus year <= 2014" ; Times: 3
+	Query: "Sauromalus tissue:1" ; Times: 2
+	Query: "Trimorphodon stateprovince:"Arizona"" ; Times: 2
+	Query: "Batrachyla antartandica" ; Times: 2
+	Query: "county:"New Haven" stateprovince:"Connecticut" genus:Ambystoma year >= 1900 year <= 1950" ; Times: 1
+	Query: "rana vaillanti" ; Times: 4
+	Query: "arboreal salamander" ; Times: 3
+	Query: "allobates" ; Times: 1
+	Query: "Phymaturus tissue:1" ; Times: 1
+	Query: "ecnomiohyla" ; Times: 1
+	Query: "geoemyda spengleri NOT japan NOT japonica" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "anolis krugi" ; Times: 1
+	Query: "Ctenosaura tissue:1" ; Times: 1
+	Query: "osteolaemus" ; Times: 1
+	Query: "boa" ; Times: 1
+	Query: "Lygosoma" ; Times: 1
+	Query: "Polemon neuwiedi" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Goniurosaurus kuroiwae" ; Times: 2
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "Petrosaurus tissue:1" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "YPM 016970" ; Times: 2
+	Query: "genus:uromastyx (skeleton)" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 3
+	Query: "anolis cuvieri" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 445 download events in this period)
+Total number of records downloaded: 4310 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4198
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 2
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-07 ; Times: 3
+	Date: 2015-01-08 ; Times: 3
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 5
+	Date: 2015-01-15 ; Times: 4
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 4
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 2
+	Date: 2015-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "allobates femoralis" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "ameerega parvula" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Phrynocephalus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "cynops ensicauda" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+	Query: "stateprovince:"South Carolina" class:amphibia (Abbeville OR Anderson OR Cherokee OR Chester OR Chesterfield OR Edgefield OR Fairfield OR Greenville OR Greenwood OR Kershaw OR Lancaster OR Lexington OR Laurens OR McCormick OR Newberry OR Oconee OR Pickens OR Richland OR Saluda OR Spartanburg OR Union OR York) year >= 1750 year <= 2015" ; Times: 1
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California" class:Reptilia mappable:1" ; Times: 1
+	Query: "morelia viridis" ; Times: 2
+	Query: "Thamnophis radix Nebraska type:specimen" ; Times: 1
+	Query: "chamela" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "country:"Honduras" class:Reptilia" ; Times: 1
+	Query: "Allobates femoralis" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Discoglossus" ; Times: 1
+	Query: "tropidurus" ; Times: 1
+	Query: "Crotalus atrox type:specimen stateprovince:"New Mexico"" ; Times: 1
+	Query: "Cynops cyanurus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "stateprovince:"kentucky" class:amphibia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 273
+Total number of records retrieved from searches: 1837
+Number of download events that retrieved data from the resource: 40
+Total number of records downloaded: 4310
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 528
+Total number of records retrieved from searches: 3459
+Number of download events that retrieved data from the resource: 106
+Total number of records downloaded: 7841
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
