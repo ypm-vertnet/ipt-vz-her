@@ -1,0 +1,278 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 969
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Ireland ; Times: 1
+	Country: Israel ; Times: 6
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 14
+	Country: United States ; Times: 97
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 11
+	Date: 2015-03-05 ; Times: 11
+	Date: 2015-03-06 ; Times: 9
+	Date: 2015-03-07 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 7
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 9
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-14 ; Times: 9
+	Date: 2015-03-15 ; Times: 13
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-17 ; Times: 6
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-20 ; Times: 5
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 9
+	Date: 2015-03-25 ; Times: 3
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-29 ; Times: 7
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gerrhosaurus nigrolineatus" ; Times: 2
+	Query: "Crotalus horridus tissue:1" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "tantilla yaquia" ; Times: 1
+	Query: ""cryptobranchus" "ohio"" ; Times: 1
+	Query: "crotalus atrox tucson" ; Times: 1
+	Query: "eurycea wallacei" ; Times: 2
+	Query: "Bronchocela tissue:1" ; Times: 1
+	Query: "Manouria impressa AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 2
+	Query: "Lygosoma tissue:1" ; Times: 1
+	Query: "Pogona tissue:1" ; Times: 1
+	Query: "Sphenomorphus derooyae" ; Times: 1
+	Query: "Norops tissue:1" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "cerrophidion tissue:1" ; Times: 1
+	Query: "marmorata genus:Clemmys" ; Times: 1
+	Query: "naxos" ; Times: 1
+	Query: "Python molurus bivittatus type:specimen" ; Times: 1
+	Query: "Anolis country:"USA" genus:Anolis year <= 2005" ; Times: 1
+	Query: "Sacalia bealei AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Hidalgo County AND squamata distance(location,geopoint(31.930409004471134,-108.9349365234375))<7351" ; Times: 1
+	Query: "Eutropis longicaudata tissue:1" ; Times: 1
+	Query: "specificepithet:spinifera genus:Apalone (skull OR skeleton)" ; Times: 1
+	Query: "hemidactylus turcicus greece mappable:1" ; Times: 1
+	Query: "Myuchelys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Diadophis stateprovince:"Arizona"" ; Times: 1
+	Query: "Rhadinaea godmani" ; Times: 1
+	Query: "physignathus tissue:1" ; Times: 1
+	Query: "Gonocephalus doriae" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 2
+	Query: "Sceloporus slevini county:"Cochise" stateprovince:"Arizona"" ; Times: 1
+	Query: "kotschyi" ; Times: 2
+	Query: "Mauremys sinensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 2
+	Query: "Phrynops tuberosus AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Varanus griseus" ; Times: 2
+	Query: "county:"Reeves" stateprovince:"Texas" class:Reptilia year <= 2015" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: "bufonidae institutioncode:ypm" ; Times: 1
+	Query: "(Stenodactylus sthenodactylus )" ; Times: 3
+	Query: "10-7-1853" ; Times: 1
+	Query: "Gonocephalus tissue:1" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Calumma globifer" ; Times: 1
+	Query: ""necturus" "ohio"" ; Times: 3
+	Query: "county:"Reeves" stateprovince:"Texas" specificepithet:emoryi class:Reptilia year <= 2015" ; Times: 1
+	Query: "Siren tissue:1" ; Times: 1
+	Query: "opipeuter xestus" ; Times: 3
+	Query: "hyla andersonii" ; Times: 2
+	Query: ""polychrus marmoratus" type:specimen (tissue) tissue:1" ; Times: 1
+	Query: "county:"Warren" stateprovince:"Pennsylvania" class:amphibia year >= 1888 year <= 1980" ; Times: 1
+	Query: "Tropidodipsas fischeri" ; Times: 1
+	Query: "Staurotypus salvinii AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Lialis tissue:1" ; Times: 3
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Leiolepis tissue:1" ; Times: 1
+	Query: "Mauremys rivulata AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "(Caiman) media:1" ; Times: 1
+	Query: "python regius" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 4
+	Query: "country:"greece" AND (NOT Mammalia NOT Aves NOT Actinopteri NOT Actinopterigyii NOT Amphibia)" ; Times: 1
+	Query: "Melanochelys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "genus:Brachytarsophrys tissue:1" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "chalarodon tissue:1" ; Times: 1
+	Query: "bothrops tissue:1" ; Times: 1
+	Query: "catalognumber:000250" ; Times: 1
+	Query: "specificepithet:erosa genus:Kinixys" ; Times: 1
+	Query: "Naja atra" ; Times: 2
+	Query: "CROTALUS HORRIDUS" ; Times: 1
+	Query: "Pelusios niger AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Clemmys marmorata county:"Los Angeles" stateprovince:"California"" ; Times: 1
+	Query: "Aromobatidae" ; Times: 1
+	Query: "testudo" ; Times: 2
+	Query: "country:"greece" AND (NOT Mammalia NOT Aves NOT Actinopteri NOT Actinopterygii NOT Amphibia)" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:dekayi genus:storeria" ; Times: 1
+	Query: "stegonotus diehli" ; Times: 1
+	Query: "ophiophagus hannah tissue:1" ; Times: 1
+	Query: ""anolis Carolinensis" stateprovince:"Mississippi" tissue:1" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "testudo graeca" ; Times: 4
+	Query: "Testudo graeca" ; Times: 1
+	Query: "Elseya AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Scincella tissue:1" ; Times: 1
+	Query: "Elseya latisternum AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "oxybelis aeneus stateprovince:"arizona"" ; Times: 1
+	Query: "Sceloporus slevini stateprovince:"Arizona" year >= 1850 year <= 2014" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Batagur borneoensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 2
+	Query: "Erymnochelys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Polemon neuwiedi" ; Times: 1
+	Query: "460146" ; Times: 1
+	Query: "Eutropis tissue:1" ; Times: 1
+	Query: "stegonotus modestus" ; Times: 1
+	Query: "Mesalina brevirostris" ; Times: 1
+	Query: "Laudakia tissue:1" ; Times: 1
+	Query: "stateprovince:"ohio" genus:podarcis" ; Times: 1
+	Query: "Hypsilurus auritus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 298 download events in this period)
+Total number of records downloaded: 7938 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7540
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Japan ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 5
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 4
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 2
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 2
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-17 ; Times: 2
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 5
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 6
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: ""Batrachoseps" AND (NOT attenuatus) mappable:1" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 3
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "genus:Megophrys tissue:1" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "serpentes mappable:1" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "county:"Warren" stateprovince:"Pennsylvania" class:amphibia year >= 1888 year <= 1980" ; Times: 2
+	Query: "Norops" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "alleganiensis mappable:1" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Rana clamitans mappable:1" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Amphisbaena fuliginosa" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "riobambae" ; Times: 2
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "county:"Warren" stateprovince:"Pennsylvania" class:amphibia" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "country:"Indonesia" class:Reptilia mappable:1" ; Times: 1
+	Query: "Emys marmorata stateprovince:"California" mappable:1" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "paroedura" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 629
+Total number of records retrieved from searches: 4049
+Number of download events that retrieved data from the resource: 192
+Total number of records downloaded: 34301
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 884
+Total number of records retrieved from searches: 5671
+Number of download events that retrieved data from the resource: 258
+Total number of records downloaded: 37832
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
