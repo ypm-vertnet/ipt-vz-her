@@ -1,0 +1,401 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 288
+Number of records retrieved in searches: 1361
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 10
+	Country: Costa Rica ; Times: 1
+	Country: Egypt ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: South Africa ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 218
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 9
+	Date: 2015-05-06 ; Times: 6
+	Date: 2015-05-07 ; Times: 12
+	Date: 2015-05-08 ; Times: 11
+	Date: 2015-05-09 ; Times: 4
+	Date: 2015-05-10 ; Times: 3
+	Date: 2015-05-11 ; Times: 15
+	Date: 2015-05-12 ; Times: 23
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 6
+	Date: 2015-05-16 ; Times: 10
+	Date: 2015-05-17 ; Times: 3
+	Date: 2015-05-18 ; Times: 18
+	Date: 2015-05-19 ; Times: 17
+	Date: 2015-05-20 ; Times: 11
+	Date: 2015-05-21 ; Times: 15
+	Date: 2015-05-22 ; Times: 25
+	Date: 2015-05-23 ; Times: 17
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 16
+	Date: 2015-05-26 ; Times: 13
+	Date: 2015-05-27 ; Times: 9
+	Date: 2015-05-28 ; Times: 16
+	Date: 2015-05-29 ; Times: 12
+	Date: 2015-05-30 ; Times: 4
+	Date: 2015-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Mesoclemmys institutioncode:YPM" ; Times: 1
+	Query: "alytes" ; Times: 3
+	Query: "northern leopard frog" ; Times: 1
+	Query: "Pituophis Kansas" ; Times: 1
+	Query: "Tantilla yaquia" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Eupsophus vertebralis country:"chile" mappable:1" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 2
+	Query: "dendrobates tinctorius" ; Times: 1
+	Query: "stateprovince:"Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Pristidactylus" ; Times: 1
+	Query: "terrapene carolina tissue:1" ; Times: 1
+	Query: "plestiodon skiltonianus idaho" ; Times: 2
+	Query: "Lampropeltis triangulum distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 3
+	Query: "Uma notata county:"Imperial"" ; Times: 2
+	Query: ""spinifera" stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 2
+	Query: "Xantusia vigilis riverside" ; Times: 1
+	Query: "chelidae tissue:1" ; Times: 1
+	Query: "holaspis" ; Times: 3
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:"Tennessee"" ; Times: 2
+	Query: "Natriciteres variegata" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.716330352721194,-82.22387708723545))<65866.80365495104" ; Times: 4
+	Query: "Reptiles and Amphibians of Egypt" ; Times: 2
+	Query: "Glyptemys insculpta" ; Times: 5
+	Query: "trachemys scripta elegans type" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 3
+	Query: "northern leopard frog new york" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 4
+	Query: ""lepidus" stateprovince:"Texas"" ; Times: 1
+	Query: "Podarcis lilfordi" ; Times: 1
+	Query: "Craugastor bransfordii" ; Times: 1
+	Query: "Plestiodon skiltonianus idaho" ; Times: 2
+	Query: "ophisaurus attenuatus" ; Times: 5
+	Query: "lampropeltis triangulum arizona" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 2
+	Query: "mcallii" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 4
+	Query: "ecnomiohyla" ; Times: 1
+	Query: "stateprovince:"Norte de Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "(bufo terrestris) year >= 1980 year <= 2015" ; Times: 1
+	Query: "aspidoscelis maricopa county" ; Times: 2
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "poison dart frog" ; Times: 1
+	Query: "pseudemys tissue:1" ; Times: 1
+	Query: "holaspis tissue:1" ; Times: 2
+	Query: "Ecnomiohyla" ; Times: 1
+	Query: "trempealeau" ; Times: 1
+	Query: "amphisbaena gonavensis" ; Times: 2
+	Query: "specificepithet:sartorii genus:Tropidodipsas" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "browni arizona" ; Times: 2
+	Query: "genus:Trachyboa" ; Times: 3
+	Query: "Uma scoparia parker" ; Times: 2
+	Query: "Lampropeltis triangulum distance(location,geopoint(34.716330352721194,-82.22387708723545))<65866.80365495104" ; Times: 1
+	Query: "country:"Panama" specificepithet:lansbergii genus:Porthidium" ; Times: 1
+	Query: "spotted salamander" ; Times: 2
+	Query: "american bullfrog" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 5
+	Query: "caiman crocodilus fuscus" ; Times: 2
+	Query: "caiman crocodilus chiapasius" ; Times: 2
+	Query: "terrapene tissue:1" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 7
+	Query: "country:"Mexico" specificepithet:ravus genus:Crotalus" ; Times: 1
+	Query: "equestris hawaii" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum Lampropeltis triangulum triangulum distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.82462605039451,-82.61938489973545))<65867" ; Times: 1
+	Query: "thamnophis AND sirtalis tissue:1" ; Times: 1
+	Query: "chelydra serpentina year >= 2013 year <= 2015" ; Times: 2
+	Query: "phrynosoma pima county" ; Times: 2
+	Query: "Echis" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 1
+	Query: "oxybelis aeneus stateprovince:"arizona"" ; Times: 4
+	Query: "Ecnomiohyla miotympanum" ; Times: 4
+	Query: ""Archbold Biological Station" type:specimen class:Reptilia" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "460096" ; Times: 1
+	Query: "Trachycephalus coriaceus" ; Times: 5
+	Query: "Leiocephalus stictigaster" ; Times: 1
+	Query: ""crotalus atrox"" ; Times: 1
+	Query: "Mesoclemmys" ; Times: 1
+	Query: "Lampropeltis pyromelana Arizona" ; Times: 1
+	Query: "Phrynops institutioncode:YPM" ; Times: 1
+	Query: "country:"Colombia" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "cerrophidion godmani tissue:1" ; Times: 1
+	Query: "hypsiboas fasciatus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:ravus genus:crotalus year <= 2015 mappable:1" ; Times: 1
+	Query: ""molossus" stateprovince:"Texas"" ; Times: 1
+	Query: "Pelusios institutioncode:YPM" ; Times: 1
+	Query: "bufo melanochlorus" ; Times: 1
+	Query: "subocularis" ; Times: 2
+	Query: "Anura stateprovince:"Kentucky" year >= 1990 year <= 2015" ; Times: 1
+	Query: "teratoscincus microlepis" ; Times: 1
+	Query: "emydoidea illinois" ; Times: 1
+	Query: "Rana okaloosae" ; Times: 1
+	Query: "thamnophis sirtalis mappable:1 tissue:1" ; Times: 1
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 2
+	Query: "chrysemys tissue:1" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 3
+	Query: "ameiva mappable:1 distance(location,geopoint(17.97873309555618,-66.19331359863281))<100000" ; Times: 2
+	Query: "Eutropis longicaudata" ; Times: 1
+	Query: "henshawi class:reptilia" ; Times: 3
+	Query: "Heloderma" ; Times: 2
+	Query: "bufo alvarius" ; Times: 11
+	Query: "mesoscincus" ; Times: 1
+	Query: "thamnophis sirtalis nebraska" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 2
+	Query: "boa constrictor" ; Times: 3
+	Query: "tuberculata institutioncode:YPM" ; Times: 1
+	Query: "blaesodactylus" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "country:"Mexico" genus:Rhinocheilus mappable:1" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Pyromelana" ; Times: 2
+	Query: ""Archbold Biological Station" class:Reptilia" ; Times: 2
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "coleonyx sonora" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: ""Gastrophryne olivacea" county:"Burnet" stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "amphibia tamaulipas san fernando" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: ""hurterii" stateprovince:"Texas"" ; Times: 1
+	Query: "atractaspis" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "chelydra serpentina genus:chelydra year >= 2013 year <= 2015" ; Times: 1
+	Query: "agalychnis annae" ; Times: 1
+	Query: "elseya tissue:1" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 5
+	Query: "Lampropeltis triangulum Lampropeltis triangulum distance(location,geopoint(34.766811272719266,-82.6226806640625))<34540.86236474116" ; Times: 4
+	Query: "chelydra serpentina year >= 2012 year <= 2015" ; Times: 1
+	Query: "caiman crocodilus crocodilus" ; Times: 1
+	Query: "terrapene mappable:1 tissue:1" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:variegatus genus:Coleonyx" ; Times: 1
+	Query: "Lichanura" ; Times: 6
+	Query: "county:"Catron" stateprovince:"New Mexico" specificepithet:flagellicaudus year <= 2015" ; Times: 1
+	Query: "agkistrodon stateprovince:"maryland"" ; Times: 8
+	Query: "blaesodactylus boivini" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "boa constrictor sonora" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "cryptobranchus tissue:1" ; Times: 2
+	Query: "460095" ; Times: 1
+	Query: "Western terrestrial garter snake" ; Times: 1
+	Query: "podarcis sicula" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 2
+	Query: ""manu" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" genus:Cryptobranchus" ; Times: 1
+	Query: "san felipe narrows stateprovince:"california"" ; Times: 1
+	Query: "tuberculatus institutioncode:YPM" ; Times: 1
+	Query: ""parque nacional manu" class:Reptilia" ; Times: 1
+	Query: "Chirindia rondoensis" ; Times: 1
+	Query: "Cyrtodactylus sermowaiensis" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "testudo graeca" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 123 (out of 976 download events in this period)
+Total number of records downloaded: 21382 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5848
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 86
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 15
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-11 ; Times: 6
+	Date: 2015-05-12 ; Times: 4
+	Date: 2015-05-13 ; Times: 5
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 31
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 10
+	Date: 2015-05-26 ; Times: 9
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 8
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "alytes" ; Times: 1
+	Query: "Enhydrina" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Eupsophus vertebralis country:"chile" mappable:1" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Pristidactylus" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Lapemis" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "aspidoscelis tigris" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "Plestiodon" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Hyla arenicolor mappable:1" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:reptilia" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: ""hyla eximia" mappable:1" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "discoglossus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "(graptemys OR pseudemys OR trachemys OR kinosternon OR sternotherus OR rhinoclemmys) tissue:1" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "agamidae mappable:1" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "pelamis" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "arizona elegans" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:amphibia" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "country:"Mexico" specificepithet:ravus genus:Crotalus" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "oxybelis aeneus stateprovince:"arizona"" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "hydrophis" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Rana okaloosae" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "Phrynobatrachus auritus" ; Times: 1
+	Query: "chrysemys tissue:1" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "Hypsilurus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "callisaurus draconoides country:"Mexico"" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "naja" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Desmognathus quadramaculatus distance(location,geopoint(34.72024392588885,-82.3919677734375))<46308.89841014607" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "amphisbaena MANNI" ; Times: 2
+	Query: "Lichanura" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "podarcis sicula" ; Times: 1
+	Query: "rana yavapaiensis" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "bipes biporus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "(alytes OR discoglossus)" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 917
+Total number of records retrieved from searches: 5410
+Number of download events that retrieved data from the resource: 315
+Total number of records downloaded: 55683
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1172
+Total number of records retrieved from searches: 7032
+Number of download events that retrieved data from the resource: 381
+Total number of records downloaded: 59214
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
