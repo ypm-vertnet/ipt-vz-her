@@ -1,0 +1,467 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 399
+Number of records retrieved in searches: 2150
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 5
+	Country: France ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 51
+	Country: Panama ; Times: 1
+	Country: Paraguay ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Ukraine ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: United States ; Times: 286
+	Country: Unknown ; Times: 9
+	Country: Vietnam ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 24
+	Date: 2015-06-02 ; Times: 28
+	Date: 2015-06-03 ; Times: 7
+	Date: 2015-06-04 ; Times: 5
+	Date: 2015-06-05 ; Times: 47
+	Date: 2015-06-06 ; Times: 9
+	Date: 2015-06-07 ; Times: 24
+	Date: 2015-06-08 ; Times: 35
+	Date: 2015-06-09 ; Times: 8
+	Date: 2015-06-10 ; Times: 14
+	Date: 2015-06-11 ; Times: 13
+	Date: 2015-06-12 ; Times: 18
+	Date: 2015-06-13 ; Times: 3
+	Date: 2015-06-14 ; Times: 3
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 6
+	Date: 2015-06-17 ; Times: 6
+	Date: 2015-06-18 ; Times: 13
+	Date: 2015-06-19 ; Times: 12
+	Date: 2015-06-20 ; Times: 5
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 57
+	Date: 2015-06-23 ; Times: 13
+	Date: 2015-06-24 ; Times: 13
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 13
+	Date: 2015-06-27 ; Times: 3
+	Date: 2015-06-28 ; Times: 5
+	Date: 2015-06-29 ; Times: 3
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphaerodactylus macrolepis" ; Times: 2
+	Query: "stateprovince:"Alto Paraguay" country:"Paraguay" class:Reptilia" ; Times: 1
+	Query: "specificepithet:hoffmanni genus:Geophis" ; Times: 1
+	Query: "northern leopard frog" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "Anolis Singularis distance(location,geopoint(18.507393241296473,-70.34179709851742))<100000" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "rat snake" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:oreganus genus:crotalus year >= 1990 year <= 2015" ; Times: 1
+	Query: "oxybelis fulgidus" ; Times: 4
+	Query: "Plestiodon elegans" ; Times: 2
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "genus:Leptophis (skeleton)" ; Times: 2
+	Query: "pyromelana" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Plestiodon septentrionalis kansas" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "genus:Oxyrhopus (skeleton)" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa" ; Times: 2
+	Query: "genus:Micrurus (skeleton)" ; Times: 1
+	Query: "rana pipiens maryland" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia institutioncode:YPM" ; Times: 2
+	Query: "leopard frog" ; Times: 1
+	Query: "specificepithet:godmani genus:Rhadinaea" ; Times: 1
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "pelomedusidae" ; Times: 1
+	Query: "osteolaemus tetraspis" ; Times: 3
+	Query: "genus:Imantodes (skeleton)" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:Leptodrymus" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "Peckover" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "Anolis stateprovince:"California"" ; Times: 6
+	Query: "specificepithet:guentheri genus:Urotheca" ; Times: 1
+	Query: "genus:Leptodeira (skeleton)" ; Times: 3
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 2
+	Query: "anolis barbouri" ; Times: 1
+	Query: "country:"Panama" specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "specificepithet:reticulata genus:Tantilla" ; Times: 1
+	Query: "Colubrinae tissue:1" ; Times: 2
+	Query: "southern two lined salamander" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "kos greece" ; Times: 1
+	Query: "Python curtus" ; Times: 4
+	Query: "county:"Cochise" stateprovince:"Arizona" genus:Uta" ; Times: 3
+	Query: "iguana iguana miami" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:amphibia tissue:1" ; Times: 1
+	Query: "tantilla gracilis stateprovince:"Texas"" ; Times: 2
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:microlepis genus:Teratoscincus" ; Times: 1
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" class:Reptilia" ; Times: 1
+	Query: "paramesotriton" ; Times: 4
+	Query: "Atropoides" ; Times: 13
+	Query: "anolis singularis distance(location,geopoint(18.701754684808876,-70.64941428601742))<134752" ; Times: 10
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:lineatus genus:Conophis" ; Times: 1
+	Query: "county:"Crawford" stateprovince:"Pennsylvania" country:"USA" class:Reptilia" ; Times: 1
+	Query: "iguana florida" ; Times: 4
+	Query: "genus:Spilotes (skeleton)" ; Times: 1
+	Query: "genus:Bothrops (skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(35.125659572523496,24.85107421875))<100000" ; Times: 1
+	Query: "specificepithet:annulatus genus:Corallus" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 3
+	Query: "distance(location,geopoint(35.051044669473086,24.873046875))<100000" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(35.125659572523496,24.85107421875))<71551" ; Times: 1
+	Query: "crocodylus cataphractus" ; Times: 1
+	Query: "pseudacris triseriata year >= 2000 year <= 2015" ; Times: 1
+	Query: "county:"Atoka" stateprovince:"Oklahoma" class:reptilia" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 2
+	Query: "Mabuya longicaudata" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Phimophis (skeleton)" ; Times: 7
+	Query: "specificepithet:poecilonotus genus:Pseustes (skeleton)" ; Times: 1
+	Query: "Iguana iguana Guerrero" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Deirochelys (skeleton OR skeletal OR dry)" ; Times: 1
+	Query: "specificepithet:mimus genus:Erythrolamprus" ; Times: 1
+	Query: "anolis armouri" ; Times: 8
+	Query: "Trachycephalus resinifictrix" ; Times: 4
+	Query: "specificepithet:nebulatus genus:Sibon" ; Times: 1
+	Query: "specificepithet:veliferum genus:Amastridium" ; Times: 2
+	Query: "genus:Dryadophis (skeleton)" ; Times: 2
+	Query: "Bothrops barnetti" ; Times: 1
+	Query: "Anolis whitemani" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "terrapene tissue:1" ; Times: 2
+	Query: "Strecker" ; Times: 1
+	Query: "aRIZONA CROTALUS MOLOSSUS" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "Chamaeleonidae country:"Madagascar" mappable:1" ; Times: 2
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" class:Reptilia institutioncode:YPM" ; Times: 2
+	Query: "genus:Drymarchon (skeleton)" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus tissue:1" ; Times: 1
+	Query: "anolis singularis distance(location,geopoint(18.826583592153607,-70.25390647351742))<213437" ; Times: 1
+	Query: "Typhlops reticulatus" ; Times: 1
+	Query: "Eurycea longicauda new york" ; Times: 1
+	Query: "Bufonidae (melanochlorus)" ; Times: 1
+	Query: "Plethodon cinereus type:specimen stateprovince:"New York" year >= 1950 year <= 2000" ; Times: 1
+	Query: "specificepithet:freminvillei genus:Stenorrhina" ; Times: 1
+	Query: "Gekkonidae country:"Madagascar" mappable:1" ; Times: 1
+	Query: "Bufonidae (coniferus)" ; Times: 1
+	Query: "Anolis chlorocyanus" ; Times: 2
+	Query: "Anolis Singularis distance(location,geopoint(18.507393241296473,-70.34179709851742))<99647" ; Times: 12
+	Query: "Anolis Singularis" ; Times: 1
+	Query: ""pine snake"" ; Times: 2
+	Query: "genus:Pseustes (skeleton)" ; Times: 2
+	Query: "craugastor bransfordii" ; Times: 1
+	Query: "specificepithet:debilis tissue:1" ; Times: 2
+	Query: "country:"paraguay" genus:caiman" ; Times: 3
+	Query: "Thamnophis county:"Crawford" stateprovince:"Pennsylvania" country:"USA"" ; Times: 1
+	Query: "specificepithet:lansbergii genus:Porthidium (skeleton)" ; Times: 2
+	Query: "scincella tissue:1" ; Times: 3
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "specificepithet:cenchoa genus:Imantodes (skeleton)" ; Times: 1
+	Query: "genus:Xenodon (skeleton)" ; Times: 2
+	Query: "Anolis armouri" ; Times: 1
+	Query: "Glyptemys muhlenbergii stateprovince:"Pennsylvania" mappable:1" ; Times: 2
+	Query: "stateprovince:"oklahoma" class:reptilia tissue:1" ; Times: 1
+	Query: "teratoscincus microlepis" ; Times: 1
+	Query: "bothriechis" ; Times: 1
+	Query: "country:"Paraguay" class:Reptilia media:1" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "county:"Hidalgo" stateprovince:"New Mexico" genus:Uta" ; Times: 2
+	Query: "Thamnophis county:"Crawford" stateprovince:"Pennsylvania" country:"USA" class:Reptilia" ; Times: 1
+	Query: "marbled salamander distance(location,geopoint(34.30714385628804,-86.923828125))<328245" ; Times: 1
+	Query: "Tegu" ; Times: 1
+	Query: "genus:Trimorphodon (skeleton)" ; Times: 1
+	Query: "kos" ; Times: 2
+	Query: "Pantherophis alleghaniensis" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis institutioncode:YPM" ; Times: 1
+	Query: "genus:Oxybelis (skeleton)" ; Times: 1
+	Query: "stateprovince:"arkansas" tissue:1" ; Times: 2
+	Query: "python viridis" ; Times: 2
+	Query: "anolis carolinensis (orange county)" ; Times: 1
+	Query: "Anolis Armouri distance(location,geopoint(18.351049902210583,-70.828857421875))<104626.05678982237" ; Times: 2
+	Query: "ambystoma opacum tennessee" ; Times: 2
+	Query: "specificepithet:pullatus genus:Spilotes (skeleton)" ; Times: 1
+	Query: "reptilia country:"germany"" ; Times: 1
+	Query: "genus:Tantilla (skeleton)" ; Times: 2
+	Query: "Draco maculatus tissue:1" ; Times: 1
+	Query: "thamnophis eques tissue:1" ; Times: 2
+	Query: "theloderma asperum" ; Times: 1
+	Query: "boa constrictor" ; Times: 3
+	Query: "country:"Ecuador" specificepithet:marmoratus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:depressirostris genus:Leptophis" ; Times: 1
+	Query: "Ctenosaura Guerrero" ; Times: 5
+	Query: "Phrynops tuberosus" ; Times: 1
+	Query: "Oxybelis Guerrero" ; Times: 2
+	Query: "Teratohyla spinosa" ; Times: 1
+	Query: "Gekkonidae madagascar mappable:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus tissue:1" ; Times: 1
+	Query: "Northern leopard frog" ; Times: 2
+	Query: "Shinisaurus" ; Times: 1
+	Query: "county:"marshall" stateprovince:"Oklahoma" class:reptilia" ; Times: 1
+	Query: "sauromalus ater stateprovince:"arizona"" ; Times: 1
+	Query: "Hypsilurus" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "specificepithet:sartorii genus:Tropidodipsas" ; Times: 1
+	Query: "cryptobranchus Pennsylvania" ; Times: 3
+	Query: "genus:dermophis class:amphibia (skeleton)" ; Times: 2
+	Query: "specificepithet:durissus genus:Crotalus (skeleton)" ; Times: 1
+	Query: "specificepithet:stenophrys genus:Lachesis" ; Times: 1
+	Query: "milk snake" ; Times: 1
+	Query: "genus:Porthidium (skeleton)" ; Times: 1
+	Query: "stateprovince:"Puebla" genus:Coniophanes" ; Times: 1
+	Query: "Dendropsophus leucophyllatus" ; Times: 1
+	Query: "specificepithet:multifasciatus genus:Micrurus" ; Times: 1
+	Query: "Agalychnis annae" ; Times: 4
+	Query: "Gyalopion quadrangulare Santa Cruz" ; Times: 2
+	Query: "Conopsis nasus" ; Times: 2
+	Query: "distance(location,geopoint(35.125659572523496,24.85107421875))<71551" ; Times: 1
+	Query: "graptemys pulchra" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "Amphisbaena innocens" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "Corytophanes percarinatus" ; Times: 2
+	Query: "triangulum cochise" ; Times: 4
+	Query: "Anolis barbouri" ; Times: 1
+	Query: "bufo san fernando tamaulipas" ; Times: 1
+	Query: "specificepithet:simus genus:Crotalus (skeleton)" ; Times: 1
+	Query: "Scinax ruber Ecuador" ; Times: 3
+	Query: "Deirochelys (skeletal OR skeleton OR dry)" ; Times: 2
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 2
+	Query: "Rhacophorus kajau" ; Times: 2
+	Query: "genus:Lachesis tissue:1" ; Times: 1
+	Query: "specificepithet:fasciatus genus:hemidactylus" ; Times: 1
+	Query: "specificepithet:nigrofasciata genus:Leptodeira" ; Times: 1
+	Query: "Trimorphodon stateprovince:"Arizona"" ; Times: 3
+	Query: "country:"Costa Rica" specificepithet:veliferum genus:Amastridium" ; Times: 1
+	Query: "amphisbaena townsendi" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "specificepithet:bairdi genus:Pantherophis" ; Times: 3
+	Query: "specificepithet:nummifer genus:Atropoides" ; Times: 1
+	Query: "genus:Masticophis (skeleton)" ; Times: 1
+	Query: "Lachesis stenophrys" ; Times: 1
+	Query: "bufonidae san fernando tamaulipas" ; Times: 1
+	Query: "Apalone spinifera spinifera stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Oxybelis" ; Times: 1
+	Query: "sceloporus megalepidurus" ; Times: 1
+	Query: "Triangulum north carolina" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia institutioncode:YPM" ; Times: 1
+	Query: "Kalophrynus tissue:1" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia AND (NOT TCWC)" ; Times: 1
+	Query: "chelydra tissue:1" ; Times: 3
+	Query: "varanus komodoensis" ; Times: 2
+	Query: "specificepithet:simus genus:Crotalus" ; Times: 1
+	Query: "osteolaemus" ; Times: 4
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:rhodopeplus genus:Dendropsophus" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "tantilla supracincta" ; Times: 2
+	Query: "Testudines Guerrero" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "genus:Senticolis (skeleton)" ; Times: 2
+	Query: "boa constrictor mexico" ; Times: 2
+	Query: "specificepithet:lineatus genus:Conophis" ; Times: 2
+	Query: "sauromalus ater (arizona)" ; Times: 1
+	Query: "specificepithet:carteri genus:pristurus" ; Times: 1
+	Query: "specificepithet:supracincta genus:Tantilla" ; Times: 1
+	Query: "marbled salamander" ; Times: 4
+	Query: "sooglossidae" ; Times: 1
+	Query: "Scincella tissue:1" ; Times: 1
+	Query: "anolis armouri distance(location,geopoint(18.52475741879881,-70.41870206594467))<89419" ; Times: 5
+	Query: "anolis singularis distance(location,geopoint(18.701754684808876,-70.64941428601742))<100000" ; Times: 1
+	Query: "lampropeltis triangulum stateprovince:"Oklahoma"" ; Times: 2
+	Query: "phrynosoma solare" ; Times: 1
+	Query: "southern toad" ; Times: 1
+	Query: "Ambystoma jeffersonianum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1524 download events in this period)
+Total number of records downloaded: 3625 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3233
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Dominican Republic ; Times: 3
+	Country: Guatemala ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Paraguay ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 79
+	Country: Unknown ; Times: 4
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 29
+	Date: 2015-06-03 ; Times: 6
+	Date: 2015-06-04 ; Times: 9
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-12 ; Times: 4
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 13
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dicamptodon stateprovince:"California"" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "enhydrina" ; Times: 1
+	Query: "Nerodia sipedon stateprovince:"North Carolina"" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Plethodon glutinosus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Bufo compactilis" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "gyrinophilus pennsylvania mappable:1" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 1
+	Query: "Colubrinae tissue:1" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:"Pennsylvania" mappable:1" ; Times: 2
+	Query: "Python curtus" ; Times: 1
+	Query: "county:"Cochise" stateprovince:"Arizona" genus:Uta" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "Chrysemys picta stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "type:specimen genus:Leposoma" ; Times: 1
+	Query: "county:"Crawford" stateprovince:"Pennsylvania" country:"USA" class:Reptilia" ; Times: 2
+	Query: "Bothriechis lateralis" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Desmognathus fuscus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Deirochelys (skeleton OR skeletal OR dry)" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(35.125659572523496,24.85107421875))<71551" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Apalone spinifera spinifera stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "anolis armouri" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Anolis whitemani" ; Times: 2
+	Query: "dicamptodon stateprovince:"california"" ; Times: 1
+	Query: "bufo retiformis" ; Times: 1
+	Query: "country:"paraguay" class:reptilia" ; Times: 1
+	Query: "Nerodia sipedon sipedon stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "Bufonidae (melanochlorus)" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "bufo microscaphus" ; Times: 1
+	Query: "Bufo americanus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Glyptemys muhlenbergii stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: "Chamaeleonidae country:"Madagascar" mappable:1" ; Times: 2
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "aspidoscelis sonorae" ; Times: 1
+	Query: ""sceloporus magister" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon)" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "bufo alvarius" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: ""sceloporus jarrovii" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: "acris crepitans" ; Times: 1
+	Query: "Xantusia wigginsi" ; Times: 1
+	Query: "Gyrinophilus porphyriticus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "genus:dermophis class:amphibia (skeleton)" ; Times: 1
+	Query: "Gekkonidae country:"Madagascar" mappable:1" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Plethodon cinereus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Desmognathus ochrophaeus stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Aspidoscelis sonorae" ; Times: 1
+	Query: "Bufonidae (coccifer)" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 2
+	Query: ""phrynosoma mcallii" stateprovince:"california"" ; Times: 1
+	Query: "agalychnis annae" ; Times: 1
+	Query: "Squamata country:"Madagascar" mappable:1" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Aspidoscelis stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "Bufonidae (valliceps)" ; Times: 1
+	Query: "Anolis chlorocyanus" ; Times: 1
+	Query: "osteolaemus" ; Times: 3
+	Query: "stateprovince:"Michigan" class:Amphibia mappable:1" ; Times: 1
+	Query: "crucifer" ; Times: 1
+	Query: "Bufonidae (coniferus)" ; Times: 1
+	Query: "Rana palustris stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+	Query: "Scincella tissue:1" ; Times: 1
+	Query: "county:"Hidalgo" stateprovince:"New Mexico" genus:Uta" ; Times: 1
+	Query: "stateprovince:"california" genus:dicamptodon" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon) mappable:1" ; Times: 1
+	Query: "Ambystoma jeffersonianum stateprovince:"Pennsylvania" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1316
+Total number of records retrieved from searches: 7560
+Number of download events that retrieved data from the resource: 422
+Total number of records downloaded: 59308
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1571
+Total number of records retrieved from searches: 9182
+Number of download events that retrieved data from the resource: 488
+Total number of records downloaded: 62839
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
