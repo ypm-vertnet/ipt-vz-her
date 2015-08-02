@@ -1,0 +1,495 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 368
+Number of records retrieved in searches: 3245
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 15
+	Country: France ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Italy ; Times: 7
+	Country: Mexico ; Times: 33
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 287
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 12
+	Date: 2015-07-02 ; Times: 14
+	Date: 2015-07-03 ; Times: 8
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 10
+	Date: 2015-07-06 ; Times: 11
+	Date: 2015-07-07 ; Times: 9
+	Date: 2015-07-08 ; Times: 28
+	Date: 2015-07-09 ; Times: 8
+	Date: 2015-07-10 ; Times: 11
+	Date: 2015-07-11 ; Times: 4
+	Date: 2015-07-12 ; Times: 3
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 5
+	Date: 2015-07-15 ; Times: 18
+	Date: 2015-07-16 ; Times: 12
+	Date: 2015-07-17 ; Times: 3
+	Date: 2015-07-18 ; Times: 13
+	Date: 2015-07-19 ; Times: 11
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 14
+	Date: 2015-07-22 ; Times: 27
+	Date: 2015-07-23 ; Times: 45
+	Date: 2015-07-24 ; Times: 10
+	Date: 2015-07-25 ; Times: 5
+	Date: 2015-07-26 ; Times: 4
+	Date: 2015-07-27 ; Times: 14
+	Date: 2015-07-28 ; Times: 4
+	Date: 2015-07-29 ; Times: 11
+	Date: 2015-07-30 ; Times: 37
+	Date: 2015-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Mesoclemmys institutioncode:YPM" ; Times: 1
+	Query: "leptodactylus fallax" ; Times: 1
+	Query: "ambystoma tigrinum year >= 1990 year <= 2015" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "county:"Imperial" class:reptilia year >= 2005 year <= 2015" ; Times: 1
+	Query: "hypsilurus" ; Times: 2
+	Query: "Rana maculata year >= 1900 year <= 2013" ; Times: 1
+	Query: "Geoclemys institutioncode:YPM" ; Times: 1
+	Query: "Ypm stateprovince:"Vermont"" ; Times: 1
+	Query: "specificepithet:solare genus:Phrynosoma tissue:1" ; Times: 2
+	Query: "Tantilla supracincta" ; Times: 2
+	Query: "Trachemys institutioncode:YPM" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" genus:Rhinocheilus" ; Times: 1
+	Query: "Necturus type:specimen (texas)" ; Times: 2
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "ctenosaura" ; Times: 1
+	Query: "Eretmochelys institutioncode:YPM" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 3
+	Query: "xantusia vigilis tissue:1" ; Times: 3
+	Query: "stateprovince:"connecticut" specificepithet:laterale genus:ambystoma class:amphibia year >= 1990 year <= 2015" ; Times: 1
+	Query: "sistrurus miliarius tissue:1" ; Times: 1
+	Query: "Sternotherus institutioncode:YPM" ; Times: 1
+	Query: "stateprovince:"California" class:Reptilia year >= 2012 year <= 2013" ; Times: 1
+	Query: "gerrhosaurus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Chelonia institutioncode:YPM" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "Cyclemys institutioncode:YPM" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Kinosternon steindachneri mappable:1" ; Times: 1
+	Query: "adamanteus" ; Times: 2
+	Query: "Emys institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:willardi genus:crotalus class:reptilia year >= 1990 year <= 2015" ; Times: 1
+	Query: "Lampropeltis triangulum distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 2
+	Query: "Lepidochelys institutioncode:YPM" ; Times: 1
+	Query: "Lygosominae" ; Times: 1
+	Query: "pseudotriton montanus stateprovince:"tennessee"" ; Times: 1
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 3
+	Query: "Glyptemys insculpta" ; Times: 2
+	Query: "sistrurus stateprovince:"oklahoma"" ; Times: 1
+	Query: "pyromelana stateprovince:"new mexico"" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "amphisbaena occidentalis" ; Times: 1
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "Tarentola mauritanica year >= 1900 year <= 2013" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "stateprovince:"connecticut" class:reptilia year >= 1990 year <= 2015" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 6
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Amphibia" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "Chelydra institutioncode:YPM" ; Times: 1
+	Query: "county:"alachua" stateprovince:"florida" class:amphibia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "burmese python" ; Times: 2
+	Query: "Lampropeltis distance(location,geopoint(34.684419596544885,-82.1337890625))<59325.591074563046" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 2
+	Query: "Melanochelys trijuga" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:scaphiopus class:amphibia year >= 1990 year <= 2015" ; Times: 2
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "Cuora institutioncode:YPM" ; Times: 1
+	Query: ""eirenis decemlineata"" ; Times: 1
+	Query: "Atropoides" ; Times: 23
+	Query: "county:"Dane" stateprovince:"Wisconsin" class:amphibia year <= 2015" ; Times: 1
+	Query: "cairi" ; Times: 1
+	Query: "stateprovince:"Rhode island" class:amphibia year <= 2015" ; Times: 1
+	Query: "Graptemys institutioncode:YPM" ; Times: 1
+	Query: "Human tissue:1" ; Times: 1
+	Query: ""Bufo microscaphus" stateprovince:"Arizona" year <= 2015" ; Times: 3
+	Query: "Trachemys decorata year >= 1900 year <= 2013" ; Times: 1
+	Query: "BERUS" ; Times: 1
+	Query: "lampropeltis stateprovince:"new mexico"" ; Times: 1
+	Query: "Manouria institutioncode:YPM" ; Times: 1
+	Query: "Podocnemis institutioncode:YPM" ; Times: 1
+	Query: "Terrapene institutioncode:YPM" ; Times: 2
+	Query: "Eutropis longicaudata tissue:1" ; Times: 1
+	Query: "typhlops country:"papua"" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:ambystoma class:amphibia AND (maculatum) year >= 1990 year <= 2015" ; Times: 1
+	Query: "Atractus major" ; Times: 5
+	Query: "crotalus tigris" ; Times: 1
+	Query: "Reptilia South Dakota year >= 2000 year <= 2015" ; Times: 1
+	Query: "county:"Greenville" stateprovince:"South Carolina" class:Reptilia" ; Times: 1
+	Query: "gerrhosaurus nigrolineatus" ; Times: 4
+	Query: "Abronia" ; Times: 2
+	Query: "Staurotypus institutioncode:YPM" ; Times: 1
+	Query: "deirochelys stateprovince:"north carolina"" ; Times: 1
+	Query: "rana septentrionalis" ; Times: 1
+	Query: "Crocodilurus" ; Times: 1
+	Query: "Chelodina institutioncode:YPM" ; Times: 1
+	Query: "Gopherus institutioncode:YPM" ; Times: 2
+	Query: "cordylidae tissue:1" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 4
+	Query: "186 county:"Cochise" stateprovince:"Arizona" class:Reptilia (186) year <= 2015" ; Times: 1
+	Query: "specificepithet:tigris genus:crotalus class:reptilia year >= 1990 year <= 2015" ; Times: 1
+	Query: "phyllopezus pollicaris" ; Times: 1
+	Query: "stateprovince:"connecticut" specificepithet:opacum genus:ambystoma class:amphibia year >= 1990 year <= 2015" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:carphophis class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "Heosemys institutioncode:YPM" ; Times: 1
+	Query: "Pantherophis alleghaniensis" ; Times: 1
+	Query: "Hydromedusa institutioncode:YPM" ; Times: 1
+	Query: "amphibia Drew" ; Times: 1
+	Query: "stateprovince:"California" class:Reptilia year >= 2013 year <= 2014" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 2
+	Query: "Tupinambis merianae" ; Times: 2
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "varanus komodoensis (etoh)" ; Times: 1
+	Query: "genus:tarentola class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "storeria south dakota" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:pyromelana genus:lampropeltis" ; Times: 1
+	Query: "Sacalia institutioncode:YPM" ; Times: 1
+	Query: "Rhinoclemmys institutioncode:YPM" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 2
+	Query: "Homopus institutioncode:YPM" ; Times: 1
+	Query: "county:"Santa Cruz" stateprovince:"Arizona" genus:Micruroides year <= 2015" ; Times: 1
+	Query: "hypsilurus cf godeffroyi" ; Times: 2
+	Query: "Kinosternon institutioncode:YPM" ; Times: 1
+	Query: "opipeuter xestus" ; Times: 3
+	Query: "Sphenodon" ; Times: 1
+	Query: "Phrynops institutioncode:YPM" ; Times: 1
+	Query: "Japalura tissue:1" ; Times: 6
+	Query: "genus:cordylus tissue:1" ; Times: 1
+	Query: "moreletii" ; Times: 1
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 2
+	Query: "chondrodactylus" ; Times: 4
+	Query: "eleutherodactylus planirostris" ; Times: 1
+	Query: "(Pareas)" ; Times: 3
+	Query: "stateprovince:"connecticut" class:amphibia year >= 1990 year <= 2015" ; Times: 2
+	Query: "crotalus mitchellii nevada" ; Times: 1
+	Query: "pelusios" ; Times: 1
+	Query: "apalone ferox" ; Times: 1
+	Query: "scotobleps" ; Times: 2
+	Query: "Pelusios institutioncode:YPM" ; Times: 1
+	Query: "Mauremys institutioncode:YPM" ; Times: 1
+	Query: "pseudotriton montanus stateprovince:"Tennessee"" ; Times: 1
+	Query: "Micrurus multifasciatus" ; Times: 1
+	Query: "genus:haideotriton class:amphibia year >= 1980 year <= 2015" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:ambystoma class:amphibia year >= 1990 year <= 2015" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "varanus komodoensis (skeleton)" ; Times: 2
+	Query: "dendrelaphis caudolineatus" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "Eleutherodactylus inoptatus year >= 1950 year <= 2013" ; Times: 1
+	Query: "Eutropis longicaudata" ; Times: 5
+	Query: "county:"Cochise" stateprovince:"Arizona" genus:Crotalus class:Reptilia (186) year <= 2015" ; Times: 1
+	Query: "dasypeltis" ; Times: 2
+	Query: "Leptodrymus" ; Times: 1
+	Query: "Hemidactylium" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Hemidactylus" ; Times: 2
+	Query: "Testudo institutioncode:YPM" ; Times: 2
+	Query: "Regina rigida" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2013" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "Chinemys institutioncode:YPM" ; Times: 1
+	Query: "agkistrodon contortrix stateprovince:"connecticut" year >= 1990 year <= 2015" ; Times: 1
+	Query: "genus:Allobates" ; Times: 1
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "triturus tissue:1" ; Times: 2
+	Query: "Myuchelys institutioncode:YPM" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:crotalus class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Siebenrockiella institutioncode:YPM" ; Times: 1
+	Query: "varanus niloticus" ; Times: 3
+	Query: "Basiliscus plumifrons type:specimen tissue:1" ; Times: 2
+	Query: "Apalone ferox" ; Times: 1
+	Query: "Crotaphytus vestigium (Jacumba)" ; Times: 3
+	Query: "Dipsochelys institutioncode:YPM" ; Times: 1
+	Query: "Mark Herr" ; Times: 1
+	Query: "county:"jeff Davis" stateprovince:"Texas" class:amphibia year <= 2015" ; Times: 1
+	Query: "necturus wisconsin" ; Times: 8
+	Query: "Pituophis melanoleucus georgia" ; Times: 1
+	Query: "Herr" ; Times: 1
+	Query: "Melanochelys institutioncode:YPM" ; Times: 1
+	Query: "Geoemyda institutioncode:YPM" ; Times: 1
+	Query: "africa green frog" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:triangulum genus:Dendropsophus" ; Times: 1
+	Query: "stateprovince:"connecticut" specificepithet:jeffersonianum genus:ambystoma class:amphibia year >= 1990 year <= 2015" ; Times: 1
+	Query: "Macrochelys institutioncode:YPM" ; Times: 1
+	Query: "Kinixys institutioncode:YPM" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 4
+	Query: "Gonionotophis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "africa AND green AND frog" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 2
+	Query: "Batagur institutioncode:YPM" ; Times: 1
+	Query: "Emydura institutioncode:YPM" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:agkistrodon class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Ecnomiohyla stateprovince:"veracruz"" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "crotalus horridus stateprovince:"connecticut" year >= 1990 year <= 2015" ; Times: 3
+	Query: "county:"kern" stateprovince:"California" genus:phrynosoma" ; Times: 1
+	Query: "Brazil Parana Reptilia" ; Times: 2
+	Query: "coronella austriaca" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia AND (NOT Anolis)" ; Times: 1
+	Query: "specificepithet:femoralis genus:Allobates" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdi" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 21
+	Query: "necturus maculosus" ; Times: 3
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Erymnochelys institutioncode:YPM" ; Times: 1
+	Query: "phrynosoma solare tissue:1" ; Times: 1
+	Query: "long-nosed snake" ; Times: 1
+	Query: "Elseya institutioncode:YPM" ; Times: 1
+	Query: "Crotalus willardi country:"USA"" ; Times: 1
+	Query: "Caretta institutioncode:YPM" ; Times: 1
+	Query: "conecuh national forest" ; Times: 2
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "Geochelone institutioncode:YPM" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia mappable:1" ; Times: 2
+	Query: "stateprovince:"florida" genus:heterodon class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Gonionotophis type:specimen" ; Times: 4
+	Query: "Turtles" ; Times: 1
+	Query: "cuora tissue:1" ; Times: 2
+	Query: "stateprovince:"florida" genus:crotalus class:reptilia year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "Bananal" ; Times: 1
+	Query: "Podarcis erhardii year >= 1800 year <= 2013" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 146 (out of 1084 download events in this period)
+Total number of records downloaded: 10058 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7518
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 116
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 8
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 4
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 7
+	Date: 2015-07-21 ; Times: 7
+	Date: 2015-07-22 ; Times: 38
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 5
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 8
+	Date: 2015-07-29 ; Times: 5
+	Date: 2015-07-30 ; Times: 9
+	Date: 2015-07-31 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Kinosternon flavescens mappable:1" ; Times: 1
+	Query: "Rana maculata year >= 1900 year <= 2013" ; Times: 1
+	Query: "dasypeltis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(33.92740869431181,-119.90203857421875))<25661.761143650823" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "Rana yavapaiensis year >= 1900 year <= 2013" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "plethodon kentucki" ; Times: 2
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Xantusia vigilis Arizona" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Sternotherus odoratus mappable:1" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "Necturus maculosus type:specimen year >= 1900 year <= 2015" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "Tarentola mauritanica year >= 1900 year <= 2013" ; Times: 1
+	Query: "chondrodactylus" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "Eublepharidae" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "stateprovince:"Rhode island" class:amphibia year <= 2015" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Bipes stateprovince:"Baja"" ; Times: 1
+	Query: "Trachemys decorata year >= 1900 year <= 2013" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "typhlops country:"papua"" ; Times: 1
+	Query: "country:"South Africa" class:Amphibia year >= 1000 year <= 2016 mappable:1 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "deirochelys stateprovince:"north carolina"" ; Times: 1
+	Query: "Necturus maculosus year >= 1900 year <= 2015" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "genus:Kinosternon subrubrum mappable:1" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Apalone spinifera mappable:1" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "Graptemys pulchra" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "plethodon serratus" ; Times: 1
+	Query: "Eleutherodactylus coqui year >= 1999 year <= 2013" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Rana catesbeiana year >= 1999 year <= 2007" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Pseudemys concinna year >= 1950 year <= 2013" ; Times: 1
+	Query: "Apalone ferox mappable:1" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Graptemys ouachitensis" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "Eleutherodactylus inoptatus year >= 1950 year <= 2013" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "Atropoides" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Rana warszewitschii year >= 1900 year <= 2013" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "Graptemys versa" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "type:specimen (bufonidae OR Rhinella OR Atelopus) tissue:1" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Apalone mutica mappable:1" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "Phyllodactylus tuberculosus" ; Times: 1
+	Query: ""Bufo microscaphus" stateprovince:"Arizona" year <= 2015" ; Times: 2
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Reptilia Brazil Parana" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "typhlopidae country:"papua"" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Phyllodactylus nocticolus" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "Sphaerodactylidae" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia mappable:1" ; Times: 2
+	Query: "Pachymedusa dacnicolor" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Kinosternon baurii mappable:1" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Leptopelis tissue:1" ; Times: 1
+	Query: "Podarcis erhardii year >= 1800 year <= 2013" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1684
+Total number of records retrieved from searches: 10805
+Number of download events that retrieved data from the resource: 568
+Total number of records downloaded: 69366
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1939
+Total number of records retrieved from searches: 12427
+Number of download events that retrieved data from the resource: 634
+Total number of records downloaded: 72897
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
