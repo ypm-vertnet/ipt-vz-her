@@ -1,0 +1,150 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 1368
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: United Kingdom ; Times: 7
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 37
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 11
+	Date: 2016-03-01 ; Times: 3
+	Date: 2016-03-08 ; Times: 14
+	Date: 2016-03-09 ; Times: 8
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 15
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 3
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Liuixalus romeri" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "genus:Staurois specificepithet:guttatus" ; Times: 1
+	Query: "(pipiens) media:1" ; Times: 3
+	Query: "persons norridgewock" ; Times: 2
+	Query: "Paramesotriton caudopunctatus" ; Times: 4
+	Query: "specificepithet:elegans genus:Sphaerodactylus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tissue:1 Cophosaurus" ; Times: 1
+	Query: "genus:Euphlyctis specificepithet:hexadactylus" ; Times: 2
+	Query: "class:Reptilia country:&#34;Greece&#34;" ; Times: 2
+	Query: "specificepithet:Gemonensis class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "squamata type:specimen order:squamata institutioncode:YPM" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Plestiodon gilberti county:&#34;orange&#34;" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 2
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Gray treefrog" ; Times: 2
+	Query: "(pseudacris crucifer) media:1" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "thamnophis marcianus tissue:1" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Ranidae media:1" ; Times: 1
+	Query: "chrysopelea china" ; Times: 2
+	Query: "crocodiles acutus" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "Ptyodactylus guttatus" ; Times: 3
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 2
+	Query: "Rhacodactylus chahoua" ; Times: 1
+	Query: "genus:Osteopilus specificepithet:vastus" ; Times: 1
+	Query: "Hypsiboas tissue:1" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 3
+	Query: "Sistrurus miliarius" ; Times: 4
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "class:reptilia county:&#34;shelby&#34; stateprovince:&#34;alabama&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "xantusia bezyi" ; Times: 3
+	Query: "persons" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Leptobrachium liui" ; Times: 1
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;shelby&#34; stateprovince:&#34;alabama&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "Pseudacris crucifer media:1" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "Gray treefrog media:1" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 230 download events in this period)
+Total number of records downloaded: 184013
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 15
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 5
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "gopherus type:specimen tissue:1" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+
+
+End of report.
