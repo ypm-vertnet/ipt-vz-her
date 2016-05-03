@@ -1,0 +1,442 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 407
+Number of records retrieved in searches: 3910
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Czech Republic ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 45
+	Country: Panama ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 275
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Puerto Rico ; Times: 2
+	Country: Switzerland ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 22
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 21
+	Date: 2016-04-28 ; Times: 11
+	Date: 2016-04-07 ; Times: 24
+	Date: 2016-04-06 ; Times: 24
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 7
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-22 ; Times: 16
+	Date: 2016-04-25 ; Times: 22
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-27 ; Times: 54
+	Date: 2016-04-26 ; Times: 27
+	Date: 2016-04-08 ; Times: 13
+	Date: 2016-04-18 ; Times: 26
+	Date: 2016-04-19 ; Times: 29
+	Date: 2016-04-14 ; Times: 17
+	Date: 2016-04-15 ; Times: 10
+	Date: 2016-04-16 ; Times: 15
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 7
+	Date: 2016-04-11 ; Times: 19
+	Date: 2016-04-12 ; Times: 12
+	Date: 2016-04-13 ; Times: 17
+	Date: 2016-04-03 ; Times: 7
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:variegatus genus:Coleonyx stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "reptilia stateprovince:&#34;California&#34; year &gt;= 2015 year &lt;= 2016" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "(reddington)" ; Times: 1
+	Query: "hemidactylus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.787516))&lt;15000" ; Times: 1
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 2
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "frogs panama" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "osteocephalus taurinus tissue:1" ; Times: 1
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Plethodon media:1" ; Times: 3
+	Query: "crotalus atrox media:1" ; Times: 1
+	Query: "pyromelana" ; Times: 4
+	Query: "wigginsi county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 1
+	Query: "Desmognathus brimleyorum tissue:1" ; Times: 2
+	Query: "Hemidactylus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-113.357516))&lt;15000" ; Times: 1
+	Query: "eublepharis tissue:1" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 3
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "eurycea wallacei" ; Times: 13
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "osteopilus septentrionalis tissue:1" ; Times: 1
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "UTA R-4450" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Gyalopion quadrangulare stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "caiman crocodilus crocodilus" ; Times: 1
+	Query: "Chionactis locality:Culp stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 6
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Oxybelis arizona" ; Times: 1
+	Query: "hypsiboas boans" ; Times: 1
+	Query: "genus:ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "Contia tenuis" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 2
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "chalcides ocellatus" ; Times: 3
+	Query: "Ophisaurus attenuatus" ; Times: 2
+	Query: "genus:Anomaloglossus order:anura class:amphibia" ; Times: 1
+	Query: "Tantilla yaquia Arizona" ; Times: 1
+	Query: "xantusia vigilis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen genus:iguana tissue:1" ; Times: 1
+	Query: "hemidactylus turcicus (parker county)" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "(orca)" ; Times: 2
+	Query: "hoogmoed" ; Times: 1
+	Query: "Carphophis tissue:1" ; Times: 2
+	Query: "boiga Trigonata" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "YPM 1015" ; Times: 1
+	Query: "kinixys" ; Times: 4
+	Query: "snakes" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-107.747516))&lt;15000" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 4
+	Query: "melanosuchus niger" ; Times: 1
+	Query: "Eurycea wallacei" ; Times: 6
+	Query: "caiman crocodilus" ; Times: 8
+	Query: "Amphiglossus" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "red salamander" ; Times: 1
+	Query: "genus:Siren stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus cerastes year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "1874-08-24" ; Times: 1
+	Query: "kinosternon subrubrum steindachneri" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 3
+	Query: "hemidactylus turcicus (parker texas)" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:tristichus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "bothriechis lateralis" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "trachycephalus typhonius" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "CR011" ; Times: 1
+	Query: "type:specimen specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "Miguel Island AND 1865" ; Times: 1
+	Query: "iguana iguana mappable:1 tissue:1" ; Times: 1
+	Query: "Scincidae skeletal" ; Times: 3
+	Query: "Allobates" ; Times: 1
+	Query: "caiman crocodilus fuscus" ; Times: 1
+	Query: "caiman crocodilus chiapasius" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "(Crotalus lepidus)" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "Varanus griseus" ; Times: 3
+	Query: "Plestiodon sex:male" ; Times: 1
+	Query: "Lampropeltis pyromelana type:specimen mappable:1" ; Times: 1
+	Query: "Hemidactylus turcicus type:specimen" ; Times: 1
+	Query: "Silverstoneia" ; Times: 1
+	Query: "osteocephalus tissue:1" ; Times: 2
+	Query: "necturus pennsylvania" ; Times: 1
+	Query: "catalognumber:015679 institutioncode:YPM" ; Times: 1
+	Query: "wood frog" ; Times: 2
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.787516))&lt;15000" ; Times: 1
+	Query: "osteopilus tissue:1" ; Times: 3
+	Query: "green salamander" ; Times: 2
+	Query: "mink frog" ; Times: 1
+	Query: "Agkistrodon contortrix contortrix year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "pituophis lodingi" ; Times: 3
+	Query: "Gonocephalus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "specificepithet:intermedia genus:siren tissue:1" ; Times: 1
+	Query: "Seminatrix pygaea cyclas" ; Times: 1
+	Query: "genus:Hylarana specificepithet:macrodactyla" ; Times: 1
+	Query: "phyllopezus pollicaris" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; (willardi)" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.237516))&lt;15000" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 2
+	Query: "Crotalus ravus" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.447516))&lt;15000" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 1
+	Query: "blue-spotted salamander" ; Times: 2
+	Query: "Oocatochus rufodorsatus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Reptilia country:&#34;Equatorial Guinea&#34; tissue:1" ; Times: 1
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 2
+	Query: "Chalcides ocellatus" ; Times: 7
+	Query: "genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 3
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 5
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "(Hemidactylus turcicus)" ; Times: 1
+	Query: "Gerrhosaurus major" ; Times: 2
+	Query: "Vipera ammodytes 1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Rana sphenocephala stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Limestone salamander" ; Times: 1
+	Query: "Pantherophis guttatus" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "kinixys homeana" ; Times: 3
+	Query: "elgaria yolo" ; Times: 4
+	Query: "distance(location,geopoint(31.469036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Kinixys" ; Times: 2
+	Query: "Eumeces schneideri" ; Times: 1
+	Query: "massasauga" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.277516))&lt;15000" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Hyla wrightorum type:specimen" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "boeleni" ; Times: 2
+	Query: "mauremys tissue:1" ; Times: 1
+	Query: "hyperolius preparations:SKELETON" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:pulchellus" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "iguana type:specimen genus:iguana mappable:1 tissue:1" ; Times: 1
+	Query: "type:specimen genus:iguana mappable:1 tissue:1" ; Times: 1
+	Query: "frogs" ; Times: 2
+	Query: "Sachatamia ilex" ; Times: 1
+	Query: "ambystoma laterale" ; Times: 2
+	Query: "Urotheca guentheri" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "1874-8-24" ; Times: 2
+	Query: "crocodylus novaguineae" ; Times: 1
+	Query: "type:specimen specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "genus:Rana specificepithet:kauffeldi" ; Times: 5
+	Query: "caiman crocodilus yacare" ; Times: 2
+	Query: "lodingi (lodingi)" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 3
+	Query: "crotalus cerberus Pima county" ; Times: 1
+	Query: "lodingi" ; Times: 1
+	Query: "xantusia wigginsi county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Gerrhosaurus" ; Times: 4
+	Query: "heloderma suspectum year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Scincidae (Skeleton)" ; Times: 2
+	Query: "Pantherophis guttatus tissue:1" ; Times: 1
+	Query: "Carphophis amoenus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Chrysemys picta tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Gyalopion quadrangulare Arizona" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudemys institutioncode:YPM tissue:1" ; Times: 1
+	Query: "lampropeltis Triangulum arizona" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 6
+	Query: "&#34;caiman crocodilus crocodilus&#34;" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Crotalus horridus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Crotalus willardi chihuahua" ; Times: 1
+	Query: "type:specimen genus:Oligodon country:&#34;China&#34;" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "apalone pennsylvania" ; Times: 1
+	Query: "genus:sistrurus order:squamata stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis order:squamata stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Scincidae preparations:skeleton" ; Times: 9
+	Query: "crotalus simus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "crotalus simus simus" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "ambystoma media:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 2
+	Query: "Elgaria AND Santa Rosa Island" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "eublepharis" ; Times: 2
+	Query: "Lester AND San Miguel Island" ; Times: 1
+	Query: "draco maculatus tissue:1" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 4
+	Query: "(Agkistrodon contortrix) distance(location,geopoint(34.92197103616377,-83.507080078125))&lt;100000" ; Times: 1
+	Query: "dinodon rufozonatum" ; Times: 1
+	Query: "Chelydra serpentina Ontario" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 1312 download events in this period)
+Total number of records downloaded: 3631
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 48
+	Country: Colombia ; Times: 3
+	Country: United Arab Emirates ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 6
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 5
+	Date: 2016-04-16 ; Times: 7
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Reptilia country:&#34;Cameroon&#34; tissue:1" ; Times: 1
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "caiman crocodilus yacare" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 2
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "hoplobatrachus tigerinus" ; Times: 3
+	Query: "ASPIDOSCELIS sonorae" ; Times: 1
+	Query: "Reptilia country:&#34;Equatorial Guinea&#34; tissue:1" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "reptiles santa fe" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "genus:boiga tissue:1" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "&#34;caiman crocodilus crocodilus&#34;" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "caiman crocodilus chiapasius" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Anolis cristatellus mappable:1" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "caiman crocodilus fuscus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Anolis limifrons mappable:1" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "specificepithet:longicauda genus:Eurycea stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 2
+
+
+End of report.
