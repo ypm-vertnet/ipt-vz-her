@@ -1,0 +1,240 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 994
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 86
+	Country: Israel ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 5
+	Country: Croatia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 5
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 5
+	Date: 2016-05-12 ; Times: 8
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-31 ; Times: 16
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-04 ; Times: 7
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 9
+	Date: 2016-05-26 ; Times: 3
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 7
+	Date: 2016-05-22 ; Times: 9
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 9
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 5
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flavipunctatus genus:Callopistes" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "genus:Necturus stateprovince:&#34;Ohio&#34; (Washington OR Meigs OR Athens OR Hocking OR Vinton)" ; Times: 2
+	Query: "Trachemys scripta elegans media:1" ; Times: 1
+	Query: "Joyce Kilmer genus:Eurycea order:caudata class:Amphibia" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "genus:Sachatamia specificepithet:ilex" ; Times: 1
+	Query: "genus:Celestus tissue:1" ; Times: 2
+	Query: "genus:Oxyrhopus tissue:1" ; Times: 3
+	Query: "Phyllodactylus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Phrynosoma douglas" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "leopard frog" ; Times: 2
+	Query: "reptilia year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Xantusia wigginsi county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Siren intermedia (Lawrence County)" ; Times: 1
+	Query: "heterodermus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "genus:Pseudis specificepithet:minuta" ; Times: 1
+	Query: "Green salamander" ; Times: 1
+	Query: "genus:sceloporus stateprovince:&#34;New&#34; country:&#34;USA&#34; year &gt;= 2000 mappable:1" ; Times: 1
+	Query: "Eugongylus (Skeleton)" ; Times: 1
+	Query: "Plestiodon chinensis" ; Times: 1
+	Query: "Hemitheconyx taylori" ; Times: 1
+	Query: "sauromalus ater county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "sistrurus Cochise county" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Pachydactylus tigrinus" ; Times: 1
+	Query: "Xantusia wigginsi stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Cryptactites peringueyi" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "Caiman yacare" ; Times: 1
+	Query: "ailuronyx" ; Times: 3
+	Query: "wigginsi stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;California&#34; year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 3
+	Query: "Crocodylus intermedius" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Micrurus tissue:1" ; Times: 1
+	Query: "blaesodactylus sakalava" ; Times: 1
+	Query: "genus:Rana specificepithet:okaloosae" ; Times: 1
+	Query: "Anguis" ; Times: 4
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "fox snake" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "urosaurus san diego county" ; Times: 1
+	Query: "Crotaphytus Nebrius" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 2
+	Query: "specificepithet:molossus genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:angusticeps" ; Times: 2
+	Query: "xantusia gracilis" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "crocodylus intermedius" ; Times: 3
+	Query: "Deirochelys reticularia (north carolina)" ; Times: 1
+	Query: "alligator sinensis" ; Times: 2
+	Query: "Crotalus oreganus lutosus" ; Times: 1
+	Query: "heloderma horridum" ; Times: 5
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:bakeri" ; Times: 3
+	Query: "blaesodactylus" ; Times: 2
+	Query: "Joyce Kilmer order:caudata class:Amphibia" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "genus:Caiman tissue:1" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "Gymnophthalmus speciosus" ; Times: 2
+	Query: "Arboreal salamander" ; Times: 1
+	Query: "pelusios gabonensis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "genus:Drepanoides" ; Times: 1
+	Query: "tropidophiidae" ; Times: 1
+	Query: "genus:Ophiodes tissue:1" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Phelsuma inexpectata" ; Times: 1
+	Query: "Cyrtodactylus irianjayaensis" ; Times: 3
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "crotalus horridus maine" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "CROCODYLUS MORELETII" ; Times: 3
+	Query: "Phelsuma borbonica" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 327 download events in this period)
+Total number of records downloaded: 2523
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 43
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 6
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 19
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "kinosternon sonoriense" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Lacerta vivipara" ; Times: 2
+	Query: "heloderma horridum" ; Times: 4
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Litoria angiana" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "genus:Oxyrhopus tissue:1" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "clamitans tissue:1" ; Times: 1
+	Query: "Siren intermedia (Lawrence County)" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Eupsophus vertebralis" ; Times: 1
+	Query: "Tupinambis merianae" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "sauromalus ater county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
