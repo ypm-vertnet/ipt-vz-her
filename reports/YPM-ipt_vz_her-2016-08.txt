@@ -1,0 +1,324 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 312
+Number of records retrieved in searches: 2345
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 180
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 55
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 44
+	Country: Colombia ; Times: 10
+	Country: Ecuador ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 32
+	Date: 2016-08-11 ; Times: 8
+	Date: 2016-08-12 ; Times: 31
+	Date: 2016-08-13 ; Times: 8
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-15 ; Times: 26
+	Date: 2016-08-16 ; Times: 21
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-18 ; Times: 25
+	Date: 2016-08-19 ; Times: 11
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 41
+	Date: 2016-08-20 ; Times: 16
+	Date: 2016-08-30 ; Times: 14
+	Date: 2016-08-22 ; Times: 4
+	Date: 2016-08-25 ; Times: 9
+	Date: 2016-08-23 ; Times: 20
+	Date: 2016-08-24 ; Times: 17
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "emys blandingii" ; Times: 1
+	Query: "Tupinambis tissue:1" ; Times: 2
+	Query: "Bothriopsis bilineata" ; Times: 4
+	Query: "Triangulum stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Southern pacific rattlesnake" ; Times: 1
+	Query: "Anolis cristatellus wileyae 1" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 5
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "american bullfrog" ; Times: 2
+	Query: "specificepithet:chalcides genus:Chalcides tissue:1" ; Times: 2
+	Query: "hemidactylus mabouia tissue:1" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 4
+	Query: "Zonosaurus tissue:1" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Xantusia county:&#34;San Bernardino&#34; (vigilis) tissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "Ateuchosaurus chinensis" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 4
+	Query: "Bothriopsis taeniata" ; Times: 2
+	Query: "desmognathus auriculatus north carolina" ; Times: 2
+	Query: "chelydra tissue:1" ; Times: 2
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "Plestiodon septentrionalis kansas" ; Times: 1
+	Query: "Protobothrops mangshanensis" ; Times: 1
+	Query: "genus:Xenosaurus tissue:1" ; Times: 1
+	Query: "Lygosoma sundevalli" ; Times: 1
+	Query: "Hyperolius bolifambae mappable:1" ; Times: 2
+	Query: "ambystoma stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Chalcides tissue:1" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "Gymnophthalmus (speciosus) tissue:1" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "anolis olssoni" ; Times: 1
+	Query: "genus:pseudopus tissue:1" ; Times: 1
+	Query: "poison dart frog" ; Times: 2
+	Query: "order:anura locality:Redding" ; Times: 1
+	Query: "genus:pseudopus" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "rhineura tissue:1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 1
+	Query: "triangulum arizona" ; Times: 7
+	Query: "anolis brevirostris" ; Times: 1
+	Query: "Norops lemurinus 1" ; Times: 1
+	Query: "Gerrhosaurus tissue:1" ; Times: 1
+	Query: "Cochise county Heterodon" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Plethodon cinereus tissue:1" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Lepidophyma tissue:1" ; Times: 1
+	Query: "genus:Tupinambis tissue:1" ; Times: 1
+	Query: "elgaria cochise" ; Times: 3
+	Query: "Dracaena tissue:1" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 4
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "trivittata" ; Times: 1
+	Query: "Pseudemys tissue:1" ; Times: 1
+	Query: "Leiolepis tissue:1" ; Times: 1
+	Query: "Kentropyx tissue:1" ; Times: 5
+	Query: "genus:Celestus tissue:1" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 2
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Gopherus berlandieri" ; Times: 44
+	Query: "Hydrosaurus tissue:1" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Bufonidae mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "cylindrophis tissue:1" ; Times: 31
+	Query: "crocodylus acutus" ; Times: 2
+	Query: "crotalus horridus new york" ; Times: 1
+	Query: "anolis luciae" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 5
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 2
+	Query: "Crotalus oreganus mappable:1 tissue:1" ; Times: 1
+	Query: "Cylindrophis type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa tissue:1" ; Times: 1
+	Query: "anolis hendersoni" ; Times: 1
+	Query: "catenatus arizona" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "Crotalus Lepidus" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 2
+	Query: "Bothrocophias microphthalmus" ; Times: 4
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Norops auratus 1" ; Times: 2
+	Query: "Carphophis amoenus tissue:1" ; Times: 3
+	Query: "chrysemys tissue:1" ; Times: 4
+	Query: "Uromastyx tissue:1" ; Times: 1
+	Query: "Furcifer tissue:1" ; Times: 2
+	Query: "Eutropis longicaudata" ; Times: 1
+	Query: "triangulum arizona cochise" ; Times: 1
+	Query: "alexteroon" ; Times: 1
+	Query: "Crotalus oreganus tissue:1" ; Times: 2
+	Query: "Crotalus tigris" ; Times: 7
+	Query: "Rhampholeon tissue:1" ; Times: 2
+	Query: "Tupinambis type:specimen tissue:1" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "Corucia type:specimen tissue:1" ; Times: 1
+	Query: "anguis fragilis" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 5
+	Query: "Norops limifrons 1" ; Times: 2
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "Egernia hosmeri" ; Times: 2
+	Query: "genus:Micruroides" ; Times: 1
+	Query: "PIPIENS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:teguixin genus:Tupinambis tissue:1" ; Times: 1
+	Query: "genus:anilius tissue:1" ; Times: 3
+	Query: "anolis caudalis" ; Times: 1
+	Query: "Plestiodon tetragrammus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus distance(location,geopoint(34.72355492704219,-82.738037109375))&lt;51657.81654839955" ; Times: 1
+	Query: "class:Reptilia type:specimen mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "Gymnophthalmus tissue:1" ; Times: 2
+	Query: "hyla cinerea oklahoma" ; Times: 1
+	Query: "genus:Shinisaurus tissue:1" ; Times: 1
+	Query: "Amphibia mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "Plestiodon tissue:1" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Pseudotriton ruber distance(location,geopoint(35.21196570103912,-82.27455139160156))&lt;51040" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "genus:Heloderma tissue:1" ; Times: 1
+	Query: "Dasia olivacea" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 2
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "Gonatodes antillensis (Gonatodes antillensis)" ; Times: 1
+	Query: "Acontias" ; Times: 2
+	Query: "Norops biporcatus 1" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "anolis luteogularis" ; Times: 1
+	Query: "lampropeltis triangulum stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "Cylindrophis tissue:1" ; Times: 8
+	Query: "desmognathus stateprovince:&#34;texas&#34; (desmognathus )" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "mangshanensis" ; Times: 2
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "N M LIZARDS" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "Garter Snake year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "Tracheloptychus tissue:1" ; Times: 1
+	Query: "Hyla wrightorum" ; Times: 2
+	Query: "boa constrictor" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 924 download events in this period)
+Total number of records downloaded: 5757
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 78
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 15
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-29 ; Times: 7
+	Date: 2016-08-28 ; Times: 4
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-27 ; Times: 6
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-22 ; Times: 9
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Bothriopsis bilineata" ; Times: 2
+	Query: "Zonosaurus tissue:1" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Necturus maculosus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Plethodon cinereus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "anolis smaragdinus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Elgaria tissue:1" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Ameiva tissue:1" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "anolis stratulus" ; Times: 1
+	Query: "anolis olssoni" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "anolis brevirostris" ; Times: 1
+	Query: "Plethodon cinereus tissue:1" ; Times: 1
+	Query: "Lepidophyma tissue:1" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Pseudemys tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "anolis pulchellus" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "cylindrophis tissue:1" ; Times: 2
+	Query: "anolis luciae" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "anolis whitemani" ; Times: 1
+	Query: "Ambystoma maculatum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 1
+	Query: "Uromastyx tissue:1" ; Times: 1
+	Query: "Furcifer tissue:1" ; Times: 1
+	Query: "bufo cognatus new mexico" ; Times: 1
+	Query: "Crotalus oreganus tissue:1" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "Xantusia tissue:1" ; Times: 2
+	Query: "anolis limifrons" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "anolis caudalis" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Gymnophthalmus tissue:1" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "hyla cinerea oklahoma" ; Times: 1
+	Query: "Granite Pass" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Plestiodon tissue:1" ; Times: 1
+	Query: "anolis semilineatus" ; Times: 2
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "Hydrosaurus tissue:1" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "anolis luteogularis" ; Times: 1
+	Query: "anolis krugi" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Draco tissue:1" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "anolis oculatus" ; Times: 1
+	Query: "anolis grahami" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
