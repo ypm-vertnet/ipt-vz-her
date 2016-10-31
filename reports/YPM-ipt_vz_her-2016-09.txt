@@ -1,0 +1,216 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 2171
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Portugal ; Times: 27
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 82
+	Country: Uruguay ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 27
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-12 ; Times: 5
+	Date: 2016-09-11 ; Times: 13
+	Date: 2016-09-10 ; Times: 10
+	Date: 2016-09-08 ; Times: 26
+	Date: 2016-09-09 ; Times: 32
+	Date: 2016-09-14 ; Times: 7
+	Date: 2016-09-04 ; Times: 9
+	Date: 2016-09-05 ; Times: 6
+	Date: 2016-09-06 ; Times: 12
+	Date: 2016-09-07 ; Times: 21
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-01 ; Times: 8
+	Date: 2016-09-02 ; Times: 11
+	Date: 2016-09-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Scolecophidia tissue:1" ; Times: 2
+	Query: "genus:Uromastyx order:Squamata tissue:1" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "spea arizona pima" ; Times: 3
+	Query: "Pantherophis spiloides specificepithet:spiloides genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Anolis cristatellus wileyae 1" ; Times: 2
+	Query: "american bullfrog" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New Hampshire&#34; continent:North America" ; Times: 2
+	Query: "plestiodon tetragrammus" ; Times: 2
+	Query: "sphenodon" ; Times: 2
+	Query: "tantilla yaquia" ; Times: 1
+	Query: "egg Louisiana" ; Times: 2
+	Query: "specificepithet:coloratus genus:echis" ; Times: 1
+	Query: "snake media:1" ; Times: 2
+	Query: "type:specimen catalognumber:014620 institutioncode:YPM" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "Chamaeleo chamaeleon 1" ; Times: 2
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "Oxybelis arizona" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "genus:Pseudis specificepithet:minuta" ; Times: 1
+	Query: "Phrynosoma solare" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "Anolis stejnegeri 1" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 3
+	Query: "type:specimen specificepithet:cristatellus genus:Anolis continent:North America" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus horridus specificepithet:horridus genus:Crotalus year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Salamandrina" ; Times: 1
+	Query: "family:Typhlopidae AND (NOT braminus) tissue:1" ; Times: 1
+	Query: "specificepithet:subannulatus genus:Tropidolaemus" ; Times: 1
+	Query: "(Archbold Biological Station)" ; Times: 1
+	Query: "Meizodon" ; Times: 2
+	Query: "Anolis limifrons 1" ; Times: 4
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "Norops lemurinus 1" ; Times: 1
+	Query: "Hypsiboas boans" ; Times: 6
+	Query: "Hypsiboas multifasciatus" ; Times: 1
+	Query: "Pantherophis guttatus specificepithet:guttatus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Adelphobates quinquevittatus 1" ; Times: 1
+	Query: "ranidae and new hampshire" ; Times: 1
+	Query: "hemidactylus continent:america tissue:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "American Bullfrog" ; Times: 1
+	Query: "diadophis tissue:1" ; Times: 1
+	Query: "hemidactylus continent:south america tissue:1" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "catalognumber:003108 institutioncode:YPM" ; Times: 3
+	Query: "Ophisaurus attenuatus specificepithet:attenuatus genus:Ophisaurus mappable:1" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus family:Anguidae tissue:1" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New Hampshire&#34; continent:North America mappable:1" ; Times: 1
+	Query: "cylindrophis tissue:1" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 2
+	Query: "hedgehog mappable:1" ; Times: 1
+	Query: "Crotalus oreganus (Klauber)" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 3
+	Query: "Discoglossus pictus 1" ; Times: 3
+	Query: "anolis porcus" ; Times: 1
+	Query: "centrolene buckleyi" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "genus:Bogertophis tissue:1" ; Times: 1
+	Query: "Plestiodon laticeps specificepithet:laticeps genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Pantherophis tissue:1" ; Times: 3
+	Query: "Norops auratus 1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Macroprotodon cucullatus 1" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "NA 1" ; Times: 9
+	Query: "norops lemurinus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon tissue:1" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 4
+	Query: "Rana catesbeiana 1" ; Times: 2
+	Query: "Norops limifrons 1" ; Times: 1
+	Query: "Typhlops continent:Africa tissue:1" ; Times: 1
+	Query: "anilius scytale tissue:1" ; Times: 2
+	Query: "Lampropeltis triangulum Arizona" ; Times: 1
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 2
+	Query: "Typhlops tissue:1" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 4
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 2
+	Query: "Podarcis sicula 1" ; Times: 1
+	Query: "genus:Shinisaurus tissue:1" ; Times: 2
+	Query: "Apalone spinifera specificepithet:spinifera genus:Apalone year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Norops sericeus 1" ; Times: 1
+	Query: "Archbold Biological Station class:Reptilia" ; Times: 1
+	Query: "specificepithet:bilineatus family:Colubridae tissue:1" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "terrapene ornata arizona" ; Times: 1
+	Query: "Sceloporus olivaceus" ; Times: 2
+	Query: "12359" ; Times: 1
+	Query: "genus:Leiolepis order:Squamata tissue:1" ; Times: 1
+	Query: "allobates" ; Times: 1
+	Query: "Plestiodon septentrionalis specificepithet:septentrionalis genus:Plestiodon mappable:1" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus county:&#34;Kern&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Norops biporcatus 1" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 7
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Plestiodon obsoletus specificepithet:obsoletus genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Plestiodon anthracinus specificepithet:anthracinus genus:Plestiodon mappable:1" ; Times: 1
+	Query: "Dendrobates truncatus 1" ; Times: 1
+	Query: "Amastridium" ; Times: 2
+	Query: "Norops macrophallus  1" ; Times: 1
+	Query: "spea arizona" ; Times: 1
+	Query: "Apalone ferox 1" ; Times: 1
+	Query: "dendrobatidae tadpole" ; Times: 3
+	Query: "ypm frog" ; Times: 1
+	Query: "Norops capito 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 811 download events in this period)
+Total number of records downloaded: 3001
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 4
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-05 ; Times: 2
+	Date: 2016-09-06 ; Times: 4
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampropeltis triangulum Arizona" ; Times: 1
+	Query: "roadrunner" ; Times: 1
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "taipehensis" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Agkistrodon piscivorus specificepithet:piscivorus genus:Agkistrodon year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "anolis porcus" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "anolis porcatus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Archbold Biological Station class:Reptilia" ; Times: 1
+	Query: "hemidactylus continent:south america tissue:1" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "rana pipiens" ; Times: 1
+	Query: "Pantherophis tissue:1" ; Times: 1
+	Query: "Atelopus ignescens" ; Times: 1
+	Query: "Eleutherodactylus coqui year &gt;= 1996 year &lt;= 2010" ; Times: 1
+	Query: "hemidactylus continent:america tissue:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "norops lemurinus" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "atelopus ignescens" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New Hampshire&#34; continent:North America mappable:1" ; Times: 1
+
+
+End of report.
