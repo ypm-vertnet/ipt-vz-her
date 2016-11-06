@@ -1,0 +1,58 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 317
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-10 ; Times: 3
+	Date: 2016-10-26 ; Times: 3
+	Date: 2016-10-09 ; Times: 2
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-05 ; Times: 3
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 4
+	Date: 2016-10-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: " Teratohyla spinosa 1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 3
+	Query: "Scinax staufferi" ; Times: 1
+	Query: " Anolis cristatellus 1" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 1
+	Query: "Anolis cristatellus 1" ; Times: 3
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: " Norops heteropholidotus 1" ; Times: 1
+	Query: "Testudo marginata 1" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Anolis carolinensis 1" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
