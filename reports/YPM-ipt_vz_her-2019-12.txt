@@ -1,0 +1,395 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 309
+Number of records retrieved in searches: 1907
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 28
+	Country: Italy ; Times: 1
+	Country: France ; Times: 6
+	Country: Slovakia ; Times: 4
+	Country: Ecuador ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 16
+	Country: Thailand ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 204
+	Country: Sweden ; Times: 11
+	Country: Vietnam ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 5
+	Date: 2019-12-24 ; Times: 43
+	Date: 2019-12-27 ; Times: 15
+	Date: 2019-12-26 ; Times: 9
+	Date: 2019-12-23 ; Times: 6
+	Date: 2019-12-22 ; Times: 6
+	Date: 2019-12-29 ; Times: 7
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-18 ; Times: 14
+	Date: 2019-12-19 ; Times: 8
+	Date: 2019-12-10 ; Times: 39
+	Date: 2019-12-11 ; Times: 24
+	Date: 2019-12-12 ; Times: 11
+	Date: 2019-12-13 ; Times: 10
+	Date: 2019-12-14 ; Times: 3
+	Date: 2019-12-15 ; Times: 3
+	Date: 2019-12-16 ; Times: 7
+	Date: 2019-12-17 ; Times: 14
+	Date: 2019-12-30 ; Times: 8
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-09 ; Times: 9
+	Date: 2019-12-08 ; Times: 6
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-06 ; Times: 8
+	Date: 2019-12-05 ; Times: 13
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 10
+	Date: 2019-12-02 ; Times: 9
+	Date: 2019-12-01 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "muhlenbergii" ; Times: 1
+	Query: "specificepithet:ater genus:sauromalus" ; Times: 1
+	Query: "Amietophrynus camerunensis mappable:1" ; Times: 3
+	Query: "specificepithet:carolinensis class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ansonia leptopus" ; Times: 3
+	Query: "genus:Andinobates hastissue:1" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Colostethus hastissue:1" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "spinipes" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Rhaebo" ; Times: 2
+	Query: "Ceratophrys cornuta" ; Times: 2
+	Query: "specificepithet:cerastes genus:crotalus class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "genus:contia class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "liuixalus" ; Times: 1
+	Query: "specificepithet:chamaeleontinus genus:Gonocephalus NOT (FMNH)" ; Times: 1
+	Query: "specificepithet:mearnsi class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "specificepithet:elegans class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:plestiodon county:&#34;hillsborough&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Xantusia bezyi" ; Times: 2
+	Query: "specificepithet:coriaceus genus:Trachycephalus" ; Times: 2
+	Query: "agusanensis" ; Times: 1
+	Query: "ambystoma maculatum durham" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2015" ; Times: 3
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 2
+	Query: "testudo graeca" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Laurel&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Astylosternus batesi mappable:1" ; Times: 1
+	Query: "specificepithet:nocticolus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Lampropeltis triangulum stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "calumma parsonii" ; Times: 4
+	Query: "specificepithet:humilis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "bombina variegata" ; Times: 1
+	Query: "genus:Furcifer stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 1
+	Query: "Bufo americanus oklahoma" ; Times: 2
+	Query: "genus:Buhoma" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis hastissue:1" ; Times: 1
+	Query: "specificepithet:elegans genus:arizona class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Oedipina complex" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "Glyptemys+insculpta" ; Times: 3
+	Query: "furcifer oustaleti" ; Times: 1
+	Query: "Trichobatrachus robustus mappable:1" ; Times: 1
+	Query: "Lepidochelys kempii  mappable:1" ; Times: 2
+	Query: "specificepithet:grandis genus:heosemys" ; Times: 1
+	Query: "furcifer verrucosus" ; Times: 1
+	Query: "specificepithet:platysoma genus:Ansonia" ; Times: 2
+	Query: "020195" ; Times: 1
+	Query: "specificepithet:magister class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "leptopus" ; Times: 1
+	Query: "genus:Silverstoneia hastissue:1" ; Times: 2
+	Query: "Scotobleps gabonicus mappable:1" ; Times: 1
+	Query: "genus:Ichthyophis" ; Times: 1
+	Query: "Xantusia gracilis" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 3
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis continent:europe institutioncode:YPM" ; Times: 3
+	Query: "specificepithet:wigginsi genus:xantusia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "13110" ; Times: 2
+	Query: "specificepithet:orcutti genus:sceloporus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "lithobates heckscheri" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "conopsis nasus" ; Times: 1
+	Query: "specificepithet:flagellum class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "genus:aspidoscelis county:&#34;Hillsborough&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "amethistina" ; Times: 2
+	Query: "specificepithet:occidentalis genus:sceloporus year &gt;= 2015 year &lt;= 2017" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "LAMPROPELTIS PyROMELANA" ; Times: 1
+	Query: "specificepithet:orcutti genus:sceloporus year &gt;= 2015 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma" ; Times: 1
+	Query: "specificepithet:doriae genus:Gonocephalus" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "specificepithet:preussi genus:Werneria" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "Dermatemys+mawii" ; Times: 1
+	Query: "specificepithet:biseriata genus:Bolitoglossa mappable:1" ; Times: 4
+	Query: "Coluber constrictor texas" ; Times: 1
+	Query: "specificepithet:dorsalis class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Jefferson&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bufo camerunensis mappable:1" ; Times: 1
+	Query: "Arthroleptis variabilis mappable:1" ; Times: 1
+	Query: "specificepithet:vigilis genus:xantusia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:ater class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "genus:Anolis institutioncode:YPM hastissue:1" ; Times: 1
+	Query: "farancia palm beach florida" ; Times: 1
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "Trachycephalus coriaceus" ; Times: 1
+	Query: "genus:Duellmanohyla hastissue:1" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "specificepithet:longidigita genus:Ansonia" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "Liuixalus" ; Times: 1
+	Query: "specificepithet:RUBER genus:Pseudotriton stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:decurtatus class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:doriae genus:Gonocephalus NOT (FMNH)" ; Times: 1
+	Query: "vntype:specimen genus:Gonocephalus AND (grandis)" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis stateprovince:&#34;kansas&#34; institutioncode:YPM" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Eretmochelys imbricata  mappable:1" ; Times: 2
+	Query: "specificepithet:skiltonianus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "genus:Rhinocheilus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 8
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Santa Rosa snake" ; Times: 1
+	Query: "specificepithet:graciosus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "xantusia gracilis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 5
+	Query: "Sistrurus tergeminus edwardsii" ; Times: 1
+	Query: "specificepithet:draconoides class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "alexteroon" ; Times: 1
+	Query: "specificepithet:breitensteini genus:Python" ; Times: 2
+	Query: "Amnirana lepus mappable:1" ; Times: 1
+	Query: "specificepithet:lecontei class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "uconn" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 2
+	Query: "Phrynosoma solare" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 3
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "Rhaebo blombergi" ; Times: 3
+	Query: "Crotalus molossus" ; Times: 4
+	Query: "specificepithet:tigris class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "boaedon institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:variegatus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Eleutherodactylus gutturalis" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana hastissue:1" ; Times: 2
+	Query: "014872" ; Times: 1
+	Query: "Calumma parsonii" ; Times: 1
+	Query: "specificepithet:atroluteus genus:Melanophryniscus" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Sceloporus institutioncode:YPM hastissue:1" ; Times: 1
+	Query: "genus:Leptodrymus" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 2
+	Query: "specificepithet:muelleri genus:Ansonia" ; Times: 2
+	Query: "specificepithet:wigginsi class:reptilia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:wigginsi county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:henshawi genus:xantusia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "00624" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 1
+	Query: "genus:Rentapia hastissue:1" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 4
+	Query: "specificepithet:sicula genus:podarcis institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:multicarinata class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:hoogmoedi genus:Atelopus" ; Times: 2
+	Query: "Pristimantis gutturalis" ; Times: 1
+	Query: "heterodon nasicus gloydi" ; Times: 4
+	Query: "order:Caudata class:Amphibia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "Dendrophidion percarinatum" ; Times: 2
+	Query: "Orthriophis moellendorffi" ; Times: 2
+	Query: "Lachesis stenophrys" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "Amolops hongkongensis" ; Times: 1
+	Query: "dopasia harti" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "Massasauga" ; Times: 10
+	Query: "genus:Naja country:&#34;China&#34;" ; Times: 1
+	Query: "Mangshanensis" ; Times: 1
+	Query: "genus:Diasporus hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "naja samarensis" ; Times: 2
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "specificepithet:scoparia genus:uma stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:multiventris genus:Chironius" ; Times: 1
+	Query: "Hylarana lepus mappable:1" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "specificepithet:graciosus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "vntype:specimen (Gonocephalus) AND (grandis)" ; Times: 3
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 4
+	Query: "YPM 020195" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "hedgehog" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 596 download events in this period)
+Total number of records downloaded: 2857
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 34
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 40
+	Country: Honduras ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 39
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-17 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 12
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "ansonia leptopus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Varanus tristis" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "agusanensis" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Oedipina complex" ; Times: 1
+	Query: "furcifer oustaleti" ; Times: 2
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "genus:Pleurodema specificepithet:brachyops" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis continent:europe institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Desmognathus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "class:Amphibia country:&#34;Equatorial Guinea&#34;" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "Varanus storri" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Mesaspis moreletii" ; Times: 1
+	Query: "genus:Anolis institutioncode:YPM hastissue:1" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis stateprovince:&#34;kansas&#34; institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Abronia graminea" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Varanus doreanus" ; Times: 1
+	Query: "uconn" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "ansonia" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis hastissue:1" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Celestus haetianus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "genus:Sceloporus institutioncode:YPM hastissue:1" ; Times: 1
+	Query: "Celestus costatus" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Lanthanotus borneensis" ; Times: 1
+	Query: "spinipes" ; Times: 3
+	Query: "Amolops" ; Times: 1
+	Query: "Scaphiophis albopunctatus" ; Times: 1
+	Query: "Ophisaurus koellikeri" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Amolops hongkongensis" ; Times: 3
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "ophisaurus harti" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+
+
+End of report.
