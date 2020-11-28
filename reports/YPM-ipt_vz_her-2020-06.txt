@@ -1,0 +1,165 @@
+Report for Institution Code YPM, Resource ipt_vz_her
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 589
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 108
+	Country: Sweden ; Times: 6
+	Country: Slovakia ; Times: 4
+	Country: Ireland ; Times: 3
+	Country: Switzerland ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 5
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-08 ; Times: 6
+	Date: 2020-06-09 ; Times: 11
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 12
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-05 ; Times: 7
+	Date: 2020-06-02 ; Times: 21
+	Date: 2020-06-03 ; Times: 8
+	Date: 2020-06-01 ; Times: 14
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-28 ; Times: 30
+	Date: 2020-06-10 ; Times: 13
+	Date: 2020-06-12 ; Times: 3
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2015 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Isopachys hastissue:1" ; Times: 12
+	Query: "genus:Acontias hastissue:1" ; Times: 1
+	Query: "Natriciteres fuliginoides" ; Times: 1
+	Query: "genus:Lerista hastissue:1" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lithobates heckscheri" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2010 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Storeria county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "genus:Cordylus hastissue:1" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "oedipina" ; Times: 2
+	Query: "trimeresurus" ; Times: 1
+	Query: "locality:agave" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 4
+	Query: "genus:Pseustes country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Diemictylus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 7
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus (skeleton)" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UCONN" ; Times: 2
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "rana septentrionalis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:callicephalus genus:Plestiodon county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 5
+	Query: "specificepithet:jarrovii genus:sceloporus (skeleton) hassex:1" ; Times: 1
+	Query: "coral snakes" ; Times: 2
+	Query: "100499" ; Times: 1
+	Query: "Pedostibes" ; Times: 1
+	Query: "necturus maculosus" ; Times: 4
+	Query: "pit viper" ; Times: 1
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Acre&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Varanus melinus" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:jarrovii genus:sceloporus (skeleton)" ; Times: 1
+	Query: "genus:Storeria county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2010 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Amapa&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tantilla brevicauda" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 4
+	Query: "Crotalus abyssus" ; Times: 1
+	Query: "Micrurus Wagler" ; Times: 2
+	Query: "(10058)" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis hastissue:1" ; Times: 1
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 3
+	Query: "RT 286" ; Times: 2
+	Query: "hastissue:1 bothriechis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 474 download events in this period)
+Total number of records downloaded: 2669
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 21
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "Oregon salamanders" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "oedipina" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "order:Gymnophiona year &gt;= 2000 hastissue:1" ; Times: 4
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
